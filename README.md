@@ -3,7 +3,7 @@
 # Ooooii!!!
 
 
-## >'Kaike Almeida'
+## 'Kaike Almeida'
 
 **Computer Science Student | C Developer | Graphs & Data Structures**
 [![University](https://img.shields.io/badge/UFRRJ-Computer%20Science-2e8b57?style=for-the-badge)](https://portal.ufrrj.br/)
