@@ -7,7 +7,7 @@ d = ImageDraw.Draw(img)
 try:
     font_ascii = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf", 6)
     # AQUI DEFINES O TAMANHO MAIOR APENAS PARA O TEXTO DA DIREITA (podes testar 11, 12, etc.)
-    font_text = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf", 20)
+    font_text = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf", 15)
 except:
     font_ascii = ImageFont.load_default()   
     font_text = ImageFont.load_default()
