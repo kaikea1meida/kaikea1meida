@@ -10,6 +10,7 @@
 ## 'Kaike Almeida'
 
 **Estudante de Ciência da Computação | Desenvolvedor C | Grafos e Estruturas de Dados**
+
 [![University](https://img.shields.io/badge/UFRRJ-Computer%20Science-2e8b57?style=for-the-badge)](https://portal.ufrrj.br/)
 [![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
 
