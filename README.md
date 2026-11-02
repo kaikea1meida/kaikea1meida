@@ -38,9 +38,11 @@ Most of my current studies involve projects in **C**, including algorithms for r
 
 <details>
 <summary><b>Me!!</b></summary>
+
 <div align="center">
   <img src="eueu-avatar.svg" alt="Avatar ASCII">
 </div>
+
 </details>
 ---
 
