@@ -1,6 +1,8 @@
-[ascii-art(9).txt](https://github.com/user-attachments/files/34254843/ascii-art.9.txt) <div align="center">
 
-# `> Hello, World!` 
+
+<div align="center">
+
+# `> Ooooii!!!`
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="75" alt="C logo">
 
@@ -20,61 +22,85 @@
 
 Hi!! I'm **Kaike**, a Computer Science undergraduate student at **Universidade Federal Rural do Rio de Janeiro (UFRRJ - Instituto Multidisciplinar)**.
 
-I'm currently, still a freshman, in my **second semester**, I'm interested into learning, besides programing, computer archtecture, graphs, understanding the uses of data structures, so that i can enhance my problem-solving skills.
+I'm currently in my **second semester**. I'm interested in learning more about computer architecture, graph theory and data structures, as well as understanding how they work and how they can be used to improve my problem-solving skills.
 
-My current studies envolve projects around the **C language**, in the recognition of strongly chordal graphs algorithms, on graphs teory (even tough it is not in such a complex way), a game that started from my structured programing classes (in C) and a very slightly interest in MIPS C programming.
+Most of my current studies involve projects in **C**, including algorithms for recognizing strongly chordal graphs and a game that started as an assignment for my Structured Programming classes. I'm also beginning to explore MIPS architecture.
 
 <details>
 <summary><b>More about me</b></summary>
 
--  Computer Science student at UFRRJ.
--  Currently in the 2nd semester.
--  Learning and developing projects in C.
--  Interested in data structures, algorithms and graph theory.
--  Main language: Portuguese(Brasil). I have an well stablished english comprehension.
--  Linux user.
+- Computer Science student at UFRRJ.
+- Currently in the 2nd semester.
+- Learning and developing projects in C.
+- Interested in data structures, algorithms and graph theory.
+- Languages: Portuguese (Brazilian) and English.
+- Linux user.
 
 </details>
 
 <details>
-<summary><b>Eu!!! — ASCII Art</b></summary>
+<summary><b>Me!!</b></summary>
 
-  Me!!
-   ..............::::::;;;;;;;;;:;: .. :+++++++++++++++xxxxxxxxxxxxxxxxxxxxxxxxx
- .......:.........:::::;;;;;.. .            .::++++++++xxxxxxxxxxxxxxxxxxxxxxxxx
-.........:........:::::;;;:   .              . .+++++++xxxxxxxxxxxxxxxxxxx+xxxxx
-.........::........:...;;          .            ;;+++++++xxxxxxxxxxxxxxxxxxxxxxx
-..........:.............                  .      .:+++++++xxxxxxxx+xxx+xxxxxxxxx
-.......................       ...   ...:::. .  .  .++++++++xxxx++++++xxxxxxxxxxx
-.......... ...........       ..:...::..++;.;::. . ::+++++x++++++++++x+xxxxxxxxxx
-......................    .::;;;.:;+;:+;xxxxxxx....++++++++++++++++++x+xxxxxxxxx
-........ .............   ::;;;+++++xxxxxxxxxxxxxx..++++++++++++++++++++xxxxxxxxx
-...... . .............   ::;;+++xxxxxxxXXXXXXXxxx. ++++++++++++++++++++xxxxxxxxx
-...  .  .::............  ::. ....;xXxxXXx;.:::.:x. ++++++++++++++++++++xxxxxxxxx
-....  .....:........... :.;;+++;+;;+xXXXx+:;;xxX+x.+++++++++++++++++++++xxxxxxxx
-....................... :;:.;..X:;:;+xxxx;x.+X.xXx+;++++++++++++++++++++xxxxxxxx
-..  ...... .::........: :;;;;;++;;;;+xxxxxxxxxxxxx+;+++++++++++++++++++++xxxxxxx
-      .......:;:;:....+;:;+++++++;:;++xxxxxxxxxxxxX;;++++++++++++++++++++xxxxxxx
-:::::::..:::..   ......::;;++++x+:;;xXXXxxxxxxxxXx;;;;+++++++++++++++++++++xxxxx
-         .  ...:........;;;;+++x+;+:+xx+;xxxXXXxxx;+;;++++++++++++++++++++xxxxxx
-        .               .:;;++++++;+x+xxxxxxXXXXx;;;;;;+++++++++++++++++++++xxxx
-........                ..:;;+;++++;;;++xxxXXXXx:;;;;;;;++++++++++++++++++++xxxx
-.....                   ...;;;;+;:::;;;;;+xxXXx;. ......::::;;;;;+++++++++++++xx
-...                     ....:;;;;;+++++xxxxXxx+.. .....................::::;;;++
-.                 ..... .....:;;;;++++xxxxxx+++... ....: .. . ..................
-                        .... :::;;++xxxxxxx+++; ... ............ . . : . .......
-                        ..  .:;;:;++xxxxx++++;. ..  .................... . .....
-                        .  :.:;+;;;;++++++++;:....... ... ......................
-                          x..:;+++++++++++;;:.......     .....    ....... ......
-                        ..+.::;;++x++++++;;:.......      ...     :::....  . ....
-              .   .    .  +.::;:;+++++++;;::......       ..     .....:.   ......
-           .. . ...    .  .+:;;;:;;;;;;;:x:  ......       ......:... .:::.. . . 
-          ....... ..       .xX$Xxxx$$$XXxX.      ..       ......... .....:::::::
-   ... . . . .  ...  .     .xXX$$$$$$XXx.                 .......  ......:::::::
-......  .....  ..  ..     +XxX$$$$X$$$xx. .    .          ......   ........:::::
-..... . .......   ..  ..  +xXX$$X$&&XXX:... .  .  .      .......  .... ......:::
- ....   .......  ... ....  XXXXx&&$XX$x ... .  .  .  .   .......  .. ..... .::..
- ... . ..  . .  ... .....x xxx$&&$XX$x.... ..  .  .  .   ... ... .. ...  ..:....
+```text
+                ........++++++++++++++++++++++++++xxxxxxxxxxxx+++++++++++++++++++
+              .......:.:+++++++++++++++++++++++++++xxxxxxxx+x+xx+++++++++++++++++
+            ........::.:++++++++++++++++++++++++++xxxxxxxxxxxxx++++++++++++++++++
+         ..........:::.:+++++++++++++++++++++++++xxxxxxxxxxxxxx++++++++++++++++++
+       ............:::::+++++++++++++++++++++++++xxxxxxxxxxxxxx++x+++++++++x+x+x+
+      ............::::::;;+++++++++++++++++++++++xxxxxxxxxxxxxxx+xxx+++++++++xxxx
+      ............::::::;;+;++++++++++++++++++++++xxxxxxxxxxxxxx+xxxxx+++xx+xx+xx
+      ............::::::;;;;+;++++++++++++++++++++++xxxxxxxxxxx++xxxxxx+xxxxxxxxx
+     .............::::::;;;;;;++++;++.:+++++++++++++++++xxxxxxxxxxxxxxxxxx+xxxxxx
+    ..............::::::;;;;;;;;;:;: .. :+++++++++++++++xxxxxxxxxxxxxxxxxxxxxxxxx
+  .......:.........:::::;;;;;.. .            .::++++++++xxxxxxxxxxxxxxxxxxxxxxxxx
+ .........:........:::::;;;:   .              . .+++++++xxxxxxxxxxxxxxxxxxx+xxxxx
+ .........::........:...;;          .            ;;+++++++xxxxxxxxxxxxxxxxxxxxxxx
+ ..........:.............                  .      .:+++++++xxxxxxxx+xxx+xxxxxxxxx
+ .......................       ...   ...:::. .  .  .++++++++xxxx++++++xxxxxxxxxxx
+ .......... ...........       ..:...::..++;.;::. . ::+++++x++++++++++x+xxxxxxxxxx
+ ......................    .::;;;.:;+;:+;xxxxxxx....++++++++++++++++++x+xxxxxxxxx
+ ........ .............   ::;;;+++++xxxxxxxxxxxxxx..++++++++++++++++++++xxxxxxxxx
+ ...... . .............   ::;;+++xxxxxxxXXXXXXXxxx. ++++++++++++++++++++xxxxxxxxx
+ ...  .  .::............  ::. ....;xXxxXXx;.:::.:x. ++++++++++++++++++++xxxxxxxxx
+ ....  .....:........... :.;;+++;+;;+xXXXx+:;;xxX+x.+++++++++++++++++++++xxxxxxxx
+ ....................... :;:.;..X:;:;+xxxx;x.+X.xXx+;++++++++++++++++++++xxxxxxxx
+ ..  ...... .::........: :;;;;;++;;;;+xxxxxxxxxxxxx+;+++++++++++++++++++++xxxxxxx
+       .......:;:;:....+;:;+++++++;:;++xxxxxxxxxxxxX;;++++++++++++++++++++xxxxxxx
+ :::::::..:::..   ......::;;++++x+:;;xXXXxxxxxxxxXx;;;;+++++++++++++++++++++xxxxx
+          .  ...:........;;;;+++x+;+:+xx+;xxxXXXxxx;+;;++++++++++++++++++++xxxxxx
+         .               .:;;++++++;+x+xxxxxxXXXXx;;;;;;+++++++++++++++++++++xxxx
+ ........                ..:;;+;++++;;;++xxxXXXXx:;;;;;;;++++++++++++++++++++xxxx
+ .....                   ...;;;;+;:::;;;;;+xxXXx;. ......::::;;;;;+++++++++++++xx
+ ...                     ....:;;;;;+++++xxxxXxx+.. .....................::::;;;++
+ .                 ..... .....:;;;;++++xxxxxx+++... ....: .. ..................
+                         .... :::;;++xxxxxxx+++; ... ....... . . . : . .......
+                         ..  .:;;:;++xxxxx++++;. ..  .................... . .....
+                         .  :.:;+;;;;++++++++;:....... ... ......................
+                           x..:;+++++++++++;;:.......     .....    ....... ......
+                         ..+.::;;++x++++++;;:.......      ...     :::....  . ....
+               .   .    .  +.::;:;+++++++;;::......       ..     .....:.  ......
+            .. . ...    .  .+:;;;:;;;;;;;:x:  ......       ......:... .:::.. . .
+           ....... ..       .xX$Xxxx$$$XXxX.      ..       ......... .....:::::::
+    ... . . . .  ...  .     .xXX$$$$$$XXx.                 .......  ......:::::::
+ ......  .....  ..  ..     +XxX$$$$X$$$xx. .    .          ......  ........:::::
+ ..... . .......   ..  ..  +xXX$$X$&&XXX:... .  .  .      .......  .... ......:::
+  ....   .......  ... ....  XXXXx&&$XX$x ... .  .  .   .......  .. ..... .::..
+  ... . ..  . .  ... .....x xxx$&&$XX$x.... .. . .   ... ... .. ... ..:....
+    . .... . . ..........Xx xX$&&$$$$X..X.   . .. .     ... .....  .  ....... .
+      ....  . ... ......XXX  X$&$$$X..+XX .... .. . ....  ..   ...     .....  ...
+     ..  .   ..........XX$$. $&$$XX..XXxx... ...... ...  ..   ...    ..   ....
+     .      .........:X$$$$X $$XXx..xXXXX........... ... ..    .    ...
+           ..........XX$$$$X :XXx..xXXX$X;............... .    .          .    .
+      .     ........XXX$$$$X  x+..XXXX$XXx........... .... ..   .         .    ..
+      ..    .......X$$$$$$XX. ;.$XXXXXXXXX...:....... ..... .                 ...
+  .         ......XX$$$$$$$$x  X$XXXXXXXXX........... .... .                ...
+  .         .....X$$X$$$$$$$X .XXXXXXXXXX$X........... ..... .                ...
+  ....       ....X$$$$$$$$$$$;+$XXXXXXXXX$X..;........ ....   .               .
+   .           .XXX$$$$$$$$XX;+XXXXXXXXXXX$x.:.;...... .....                  .
+               ;XXX$$$$$$$XXx  xxxxxxxXXXX$X.......... .....
+ .            .xxxXXXXXXXXXXX..xX$$$$XXXXXXXX......... ....    .
+              ;xxXXxXX:::xx+;..+xxxXXXXXXXX$$...................
+```
 
 </details>
 
@@ -94,7 +120,7 @@ My current studies envolve projects around the **C language**, in the recognitio
 |:---|:---|
 | Programming language | C |
 | Data structures | Fundamentals and implementation |
-| Graph theory | S Chordals graphs |
+| Graph theory | Strongly chordal graphs |
 | Operating system | Linux |
 | Version control | Git and GitHub |
 | Languages | Portuguese and English |
@@ -106,7 +132,7 @@ My current studies envolve projects around the **C language**, in the recognitio
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" alt="C">
 
-My main programming language so far. I'm using C to practice programming logic, memory management, with pointers, algorithms and data structures.
+My main programming language so far. I'm using C to practice programming logic, memory management, pointers, algorithms and data structures.
 
 </details>
 
@@ -114,18 +140,19 @@ My main programming language so far. I'm using C to practice programming logic, 
 <summary><b>Tools and environment</b></summary>
 
 - **Linux:** My development environment.
-- 
+- **Git and GitHub:** Version control and project hosting.
+
 </details>
 
 ---
 
 ## `03.` Currently working on
 
-###  Terminal Game — C + Ncurses
+### Terminal Game — C + Ncurses
 
-I'm currently developing a game in **C**, using mainly the **Ncurses library** to create a graphical interface directly in the terminal.
+I'm currently developing a game in **C**, using mainly the **Ncurses library** to create a text-based interface directly in the terminal.
 
-The project is an opportunity that appeared on my first semester to explore terminal-based interfaces, keyboard interaction, screen rendering and the practical application of programming concepts, using sprites, memory loading and binary archives.
+The project started as an opportunity during my first semester to explore terminal-based interfaces, keyboard interaction, screen rendering and the practical application of programming concepts. It also involves working with sprites, memory loading and binary archives.
 
 <div align="center">
 
@@ -135,9 +162,9 @@ The project is an opportunity that appeared on my first semester to explore term
 
 </div>
 
-**Documentation:** I am also writing my own README explaining the basic concepts of Ncurses, its main functions and how to get started with the library.
+**Documentation:** I'm also writing my own README explaining the basic concepts of Ncurses, its main functions and how to get started with the library.
 
- **[Ncurses — Basic Concepts and Introduction](./README_NCURSES.md)**
+**[Ncurses — Basic Concepts and Introduction](./README_NCURSES.md)**
 
 <details>
 <summary><b>What is Ncurses?</b></summary>
@@ -151,14 +178,12 @@ It provides features such as:
 - Text positioning.
 - Colors and terminal windows.
 - Updating the terminal display.
-- minigames
-- bad jokes
-- my collaboration with leoeowoeo
 
-**Repository:** [C game While Playing Not Studying](https://github.com/leoeowoeo/while_playing_not_studying-OO-) 
+**Repository:** [While Playing Not Studying — C Game](https://github.com/leoeowoeo/while_playing_not_studying-OO-)
+
 </details>
 
-###  Strongly Chordal Graphs Library
+### Strongly Chordal Graphs Library
 
 Another project I'm working on is a library related to **strongly chordal graphs**, using graph data structures.
 
@@ -172,10 +197,11 @@ This project involves studying graph representations and applying data structure
 
 </div>
 
-**Repository:** [Strongly Chordal Graphs Library — Coming soon](https://github.com/kaikea1meida/Grafo.h)
+**Repository:** [Strongly Chordal Graphs Library](https://github.com/kaikea1meida/Grafo.h)
 
 <details>
 <summary><b>What is the project about?</b></summary>
+
 ## Strongly Chordal Graph Recognition
 
 This project recognizes whether a graph G is strongly chordal by reducing the problem to checking if its auxiliary vertex-clique graph H(G) is chordal bipartite.
@@ -186,28 +212,35 @@ A graph G is strongly chordal if and only if its vertex-clique incidence graph H
 
 ### Steps
 
-#### 1. Building the auxiliary bipartite graph H(G) = (X u Y, E)
-* **Set X (original vertices):** contains all original vertices from G.
-* **Set Y (cliques):** contains nodes representing each maximal clique in G.
-* **Edges:** an edge connects vertex u in X to clique node C in Y if u is in C.
+#### 1. Building the auxiliary bipartite graph H(G) = (X ∪ Y, E)
+
+- **Set X (original vertices):** contains all original vertices from G.
+- **Set Y (cliques):** contains nodes representing each maximal clique in G.
+- **Edges:** an edge connects vertex u in X to clique node C in Y if u belongs to C.
 
 How we build it:
+
 1. Run a Perfect Elimination Ordering (PEO) on G.
 2. For each vertex in the PEO, take its remaining closed neighborhood.
 3. Check if that neighborhood is already contained in an existing clique in Y. If it's not, add a new clique node to Y and link it to all vertices in that neighborhood.
 
 #### 2. Bisimplicial elimination on H(G)
-* Loop over the edges (u, v) in H(G), where u is in X and v is in Y.
-* For each edge, check if the joint neighborhood N(u) u N(v) forms a complete bipartite graph (biclique).
-* If it does, pick the bisimplicial vertex (the one whose neighborhood sits entirely inside this biclique).
-* Remove that vertex and all its incident edges from H(G).
+
+- Loop over the edges (u, v) in H(G), where u is in X and v is in Y.
+- For each edge, check if the joint neighborhood N(u) ∪ N(v) forms a complete bipartite graph (biclique).
+- If it does, pick the bisimplicial vertex (the one whose neighborhood sits entirely inside this biclique).
+- Remove that vertex and all its incident edges from H(G).
 
 #### 3. Output
-* **If H(G) ends up completely empty:** G is strongly chordal.
-* **If the loop gets stuck and can't find any bisimplicial vertices:** G is not strongly chordal.
+
+- **If H(G) ends up completely empty:** G is strongly chordal.
+- **If the loop gets stuck and can't find any bisimplicial vertices:** G is not strongly chordal.
+
 </details>
 
-## `05.` GitHub Statistics
+---
+
+## `04.` GitHub Statistics
 
 <div align="center">
 
@@ -226,14 +259,12 @@ How we build it:
 
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 </details>
-
-
-> Project links and additional information will be updated as the repositories evolve.
 
 ---
 
-## `07.` Contact
+## `05.` Contact
 
 <div align="center">
 
@@ -245,8 +276,9 @@ How we build it:
 
 <div align="center">
 
-**TY for your time!!!** 
+**TY for your time!!!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:24292e&height=100&section=footer" width="100%" alt="Footer decoration">
 
 </div>
+
