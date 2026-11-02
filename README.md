@@ -149,8 +149,11 @@ How we build it:
 
 1. Run a Perfect Elimination Ordering (PEO) on G, so that we are sure that it is cordal at least, because looking for cliques in a non cordal graph may be NP-complete.
 <img width="670" height="334" alt="Matriz_Schordals" src="https://github.com/user-attachments/assets/6ddd4136-9677-44d6-9218-f1642b9863dd" />
+<details>
+  <summary><kbd><sub><b>&nbsp;about the gif&nbsp;</b></sub></kbd></summary>
+  ##### *this image is not from our project but it represents almost exactly what we are doing here, it is from: https://oxfordcontrol.github.io/COSMO.jl/stable/decomposition/*
 
-##### *this image is not from our project but it represents almost exactly what we are doing here, it is from: https://oxfordcontrol.github.io/COSMO.jl/stable/decomposition/*
+</details>
 2. For each vertex in the PEO, take its remaining closed neighborhood.
 3. Check if that neighborhood is already contained in an existing clique in Y. If it's not, add a new clique node to Y and link it to all vertices in that neighborhood.
 
