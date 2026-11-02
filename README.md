@@ -126,17 +126,26 @@ Most of my current studies involve projects in **C**, including algorithms for r
 
 ### 🎮 Terminal Game — C + Ncurses
 
-<br>
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="90" alt="C logo">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Plus_symbol.svg/500px-Plus_symbol.svg.png" width="30" alt="Plus symbol">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NCURSES-1F1F1F?style=for-the-badge&logo=gnu&logoColor=white" height="40" alt="Ncurses logo">
+  <table>
+    <tr>
+      <td align="center" valign="middle" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="90" alt="C logo">
+      </td>
+      <td align="center" valign="middle" width="60">
+        <h1>+</h1>
+      </td>
+      <td align="left" valign="middle">
+<pre><code>███╗   ██╗ ██████╗██╗   ██╗██████╗ ███████╗███████╗███████╗
+████╗  ██║██╔════╝██║   ██║██╔══██╗██╔════╝██╔════╝██╔════╝
+██╔██╗ ██║██║     ██║   ██║██████╔╝███████╗█████╗  ███████╗
+██║╚██╗██║██║     ██║   ██║██╔══██╗╚════██║██╔══╝  ╚════██║
+██║ ╚████║╚██████╗╚██████╔╝██║  ██║███████║███████╗███████║
+╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝</code></pre>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br>
 
 I'm currently developing a game in **C**, using mainly the **Ncurses** library to create a text-based interface directly in the terminal.
 
