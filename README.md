@@ -37,69 +37,23 @@ Most of my current studies involve projects in **C**, including algorithms for r
 </details>
 
 <details>
-<summary><b>Me!!</b></summary>
-
-```text
-                ........++++++++++++++++++++++++++xxxxxxxxxxxx+++++++++++++++++++
-              .......:.:+++++++++++++++++++++++++++xxxxxxxx+x+xx+++++++++++++++++
-            ........::.:++++++++++++++++++++++++++xxxxxxxxxxxxx++++++++++++++++++
-         ..........:::.:+++++++++++++++++++++++++xxxxxxxxxxxxxx++++++++++++++++++
-       ............:::::+++++++++++++++++++++++++xxxxxxxxxxxxxx++x+++++++++x+x+x+
-      ............::::::;;+++++++++++++++++++++++xxxxxxxxxxxxxxx+xxx+++++++++xxxx
-      ............::::::;;+;++++++++++++++++++++++xxxxxxxxxxxxxx+xxxxx+++xx+xx+xx
-      ............::::::;;;;+;++++++++++++++++++++++xxxxxxxxxxx++xxxxxx+xxxxxxxxx
-     .............::::::;;;;;;++++;++.:+++++++++++++++++xxxxxxxxxxxxxxxxxx+xxxxxx
-    ..............::::::;;;;;;;;;:;: .. :+++++++++++++++xxxxxxxxxxxxxxxxxxxxxxxxx
-  .......:.........:::::;;;;;.. .            .::++++++++xxxxxxxxxxxxxxxxxxxxxxxxx
- .........:........:::::;;;:   .              . .+++++++xxxxxxxxxxxxxxxxxxx+xxxxx
- .........::........:...;;          .            ;;+++++++xxxxxxxxxxxxxxxxxxxxxxx
- ..........:.............                  .      .:+++++++xxxxxxxx+xxx+xxxxxxxxx
- .......................       ...   ...:::. .  .  .++++++++xxxx++++++xxxxxxxxxxx
- .......... ...........       ..:...::..++;.;::. . ::+++++x++++++++++x+xxxxxxxxxx
- ......................    .::;;;.:;+;:+;xxxxxxx....++++++++++++++++++x+xxxxxxxxx
- ........ .............   ::;;;+++++xxxxxxxxxxxxxx..++++++++++++++++++++xxxxxxxxx
- ...... . .............   ::;;+++xxxxxxxXXXXXXXxxx. ++++++++++++++++++++xxxxxxxxx
- ...  .  .::............  ::. ....;xXxxXXx;.:::.:x. ++++++++++++++++++++xxxxxxxxx
- ....  .....:........... :.;;+++;+;;+xXXXx+:;;xxX+x.+++++++++++++++++++++xxxxxxxx
- ....................... :;:.;..X:;:;+xxxx;x.+X.xXx+;++++++++++++++++++++xxxxxxxx
- ..  ...... .::........: :;;;;;++;;;;+xxxxxxxxxxxxx+;+++++++++++++++++++++xxxxxxx
-       .......:;:;:....+;:;+++++++;:;++xxxxxxxxxxxxX;;++++++++++++++++++++xxxxxxx
- :::::::..:::..   ......::;;++++x+:;;xXXXxxxxxxxxXx;;;;+++++++++++++++++++++xxxxx
-          .  ...:........;;;;+++x+;+:+xx+;xxxXXXxxx;+;;++++++++++++++++++++xxxxxx
-         .               .:;;++++++;+x+xxxxxxXXXXx;;;;;;+++++++++++++++++++++xxxx
- ........                ..:;;+;++++;;;++xxxXXXXx:;;;;;;;++++++++++++++++++++xxxx
- .....                   ...;;;;+;:::;;;;;+xxXXx;. ......::::;;;;;+++++++++++++xx
- ...                     ....:;;;;;+++++xxxxXxx+.. .....................::::;;;++
- .                 ..... .....:;;;;++++xxxxxx+++... ....: .. ..................
-                         .... :::;;++xxxxxxx+++; ... ....... . . . : . .......
-                         ..  .:;;:;++xxxxx++++;. ..  .................... . .....
-                         .  :.:;+;;;;++++++++;:....... ... ......................
-                           x..:;+++++++++++;;:.......     .....    ....... ......
-                         ..+.::;;++x++++++;;:.......      ...     :::....  . ....
-               .   .    .  +.::;:;+++++++;;::......       ..     .....:.  ......
-            .. . ...    .  .+:;;;:;;;;;;;:x:  ......       ......:... .:::.. . .
-           ....... ..       .xX$Xxxx$$$XXxX.      ..       ......... .....:::::::
-    ... . . . .  ...  .     .xXX$$$$$$XXx.                 .......  ......:::::::
- ......  .....  ..  ..     +XxX$$$$X$$$xx. .    .          ......  ........:::::
- ..... . .......   ..  ..  +xXX$$X$&&XXX:... .  .  .      .......  .... ......:::
-  ....   .......  ... ....  XXXXx&&$XX$x ... .  .  .   .......  .. ..... .::..
-  ... . ..  . .  ... .....x xxx$&&$XX$x.... .. . .   ... ... .. ... ..:....
-    . .... . . ..........Xx xX$&&$$$$X..X.   . .. .     ... .....  .  ....... .
-      ....  . ... ......XXX  X$&$$$X..+XX .... .. . ....  ..   ...     .....  ...
-     ..  .   ..........XX$$. $&$$XX..XXxx... ...... ...  ..   ...    ..   ....
-     .      .........:X$$$$X $$XXx..xXXXX........... ... ..    .    ...
-           ..........XX$$$$X :XXx..xXXX$X;............... .    .          .    .
-      .     ........XXX$$$$X  x+..XXXX$XXx........... .... ..   .         .    ..
-      ..    .......X$$$$$$XX. ;.$XXXXXXXXX...:....... ..... .                 ...
-  .         ......XX$$$$$$$$x  X$XXXXXXXXX........... .... .                ...
-  .         .....X$$X$$$$$$$X .XXXXXXXXXX$X........... ..... .                ...
-  ....       ....X$$$$$$$$$$$;+$XXXXXXXXX$X..;........ ....   .               .
-   .           .XXX$$$$$$$$XX;+XXXXXXXXXXX$x.:.;...... .....                  .
-               ;XXX$$$$$$$XXx  xxxxxxxXXXX$X.......... .....
- .            .xxxXXXXXXXXXXX..xX$$$$XXXXXXXX......... ....    .
-              ;xxXXxXX:::xx+;..+xxxXXXXXXXX$$...................
-```
-
+<pre><code>
+<span style="color: #61afef;">        ........++++++++++++++++++++++++++</span>   <span style="color: #e06c75; font-weight: bold;">kaike@ufrrj-pc</span>
+<span style="color: #61afef;">       .......:.:+++++++++++++++++++++++++++</span>   <span style="color: #5c6370;">--------------------</span>
+<span style="color: #61afef;">      ........::.:++++++++++++++++++++++++++</span>   <span style="color: #98c379; font-weight: bold;">OS:</span> Ubuntu Linux (x86_64)
+<span style="color: #61afef;">     ..........:::.:+++++++++++++++++++++++++</span>   <span style="color: #98c379; font-weight: bold;">Host:</span> Custom Desktop Rig
+<span style="color: #61afef;">    ............:::::+++++++++++++++++++++++++</span>   <span style="color: #98c379; font-weight: bold;">Uptime:</span> 2nd Semester (2026)
+<span style="color: #61afef;">   ............::::::;;+++++++++++++++++++++++</span>   <span style="color: #98c379; font-weight: bold;">Host Institution:</span> UFRRJ (IM)
+<span style="color: #61afef;">   ............::::::;;+;++++++++++++++++++++++</span>  <span style="color: #98c379; font-weight: bold;">Degree:</span> Computer Science
+<span style="color: #61afef;">   ............::::::;;;;+;++++++++++++++++++++++</span>  <span style="color: #98c379; font-weight: bold;">Language:</span> C (Primary)
+<span style="color: #61afef;">  .............::::::;;;;;;++++;++.:+++++++++++++</span>  <span style="color: #98c379; font-weight: bold;">Interests:</span> Graphs & Data Structures
+<span style="color: #61afef;"> ..............::::::;;;;;;;;;:;: .. :+++++++++++</span>  <span style="color: #98c379; font-weight: bold;">Editor:</span> VS Code / Terminal
+<span style="color: #61afef;"> .......:.........:::::;;;;;.. .       .::+++++</span>  <span style="color: #98c379; font-weight: bold;">Version Control:</span> Git & GitHub
+<span style="color: #61afef;"> .........:........:::::;;;:   .       . .+++++</span>  <span style="color: #5c6370;">--------------------</span>
+<span style="color: #61afef;"> .........::........:...;;         .   ;;+++++</span>   <span style="color: #e5c07b;">Contact:</span>
+<span style="color: #61afef;"> ..........:.............             .:+++++</span>   <span style="color: #98c379;">GitHub:</span> @kaikea1meida
+<span style="color: #61afef;"> .......................   ...   ...:::. .     </span>   <span style="color: #98c379;">Status:</span> Building C Games
+</code></pre>
 </details>
 
 ---
