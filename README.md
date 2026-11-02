@@ -27,7 +27,7 @@ I'm currently in my **second semester**. I'm interested in learning more about c
 Most of my current studies involve projects in **C**, including algorithms for recognizing strongly chordal graphs and a game that started as an assignment for my Structured Programming classes. I'm also beginning to explore MIPS architecture.
 
 <details>
-<summary><h4><kbd><b>&nbsp;click info about me&nbsp;</b></kbd></h4></summary>
+<summary><h3><kbd><b>&nbsp;click info about me&nbsp;</b></kbd></h3></summary>
 
 - Computer Science student at UFRRJ.
 - Currently in the 2nd semester.
@@ -39,7 +39,7 @@ Most of my current studies involve projects in **C**, including algorithms for r
 </details>
 
 <details>
-<summary><h4><kbd><b>&nbsp;click - Fastfetch me!&nbsp;</b></kbd></h4></summary>
+<summary><h3><kbd><b>&nbsp;click - Fastfetch me!&nbsp;</b></kbd></h3></summary>
 
 <br>
 
@@ -74,7 +74,7 @@ Most of my current studies involve projects in **C**, including algorithms for r
 
 ---
 
-## `03.` Currently working on
+## `03.` Working on
 
 ### Terminal Game — C + Ncurses
 <div align="center">
@@ -131,7 +131,7 @@ This project involves studying graph representations and applying data structure
 **Repository:** [Strongly Chordal Graphs Library](https://github.com/kaikea1meida/Grafo.h)
 
 <details>
-<summary><h4><kbd><b>&nbsp;click - What is the project about?&nbsp;</b></kbd></h4></summary>
+<summary><h3><kbd><b>&nbsp;click - What is the project about?&nbsp;</b></kbd></h3></summary>
 
 ## Strongly Chordal Graph Recognition
 
@@ -153,12 +153,6 @@ A graph G is strongly chordal if and only if its vertex-clique incidence graph H
 How we build it:
 
 1. Run a Perfect Elimination Ordering (PEO) on G, so that we are sure that it is cordal at least, because looking for cliques in a non cordal graph may be NP-complete.
-<img width="670" height="334" alt="Matriz_Schordals" src="https://github.com/user-attachments/assets/6ddd4136-9677-44d6-9218-f1642b9863dd" />
-<details>
-  <summary><kbd><sub><b>&nbsp;about the gif&nbsp;</b></sub></kbd></summary>
-  ##### *this image is not from our project but it represents almost exactly what we are doing here, it is from: https://oxfordcontrol.github.io/COSMO.jl/stable/decomposition/*
-
-</details>
 2. For each vertex in the PEO, take its remaining closed neighborhood.
 3. Check if that neighborhood is already contained in an existing clique in Y. If it's not, add a new clique node to Y and link it to all vertices in that neighborhood.
 
@@ -182,7 +176,7 @@ How we build it:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kaikea1meida&theme=tokyonight&hide_border=true" alt="GitHub streak statistics">
+<img src=".../streak-stats.demolab.com?user=kaikea1meida&theme=tokyonight&hide_border=true" alt="GitHub streak statistics">
 
 </div>
 
