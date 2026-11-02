@@ -153,6 +153,10 @@ A graph G is strongly chordal if and only if its vertex-clique incidence graph H
 How we build it:
 
 1. Run a Perfect Elimination Ordering (PEO) on G, so that we are sure that it is cordal at least, because looking for cliques in a non cordal graph may be NP-complete.
+<details>
+<summary><kbd><sub><b>&nbsp;about the gif&nbsp;</b></sub></kbd></summary>
+  ##### *this image is not from our project but it represents almost exactly what we are doing here, it is from: https://oxfordcontrol.github.io/COSMO.jl/stable/decomposition/*
+</details>
 2. For each vertex in the PEO, take its remaining closed neighborhood.
 3. Check if that neighborhood is already contained in an existing clique in Y. If it's not, add a new clique node to Y and link it to all vertices in that neighborhood.
 
@@ -176,7 +180,7 @@ How we build it:
 
 <div align="center">
 
-<img src=".../streak-stats.demolab.com?user=kaikea1meida&theme=tokyonight&hide_border=true" alt="GitHub streak statistics">
+<img src="https://streak-stats.demolab.com?user=kaikea1meida&theme=tokyonight&hide_border=true" alt="GitHub streak statistics">
 
 </div>
 
