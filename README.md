@@ -25,37 +25,69 @@ I'm currently in my **second semester**. I'm interested in learning more about c
 Most of my current studies involve projects in **C**, including algorithms for recognizing strongly chordal graphs and a game that started as an assignment for my Structured Programming classes. I'm also beginning to explore MIPS architecture.
 
 <details>
-<summary><b>More about me</b></summary>
+<summary><b>Me!!</b></summary>
 
-- Computer Science student at UFRRJ.
-- Currently in the 2nd semester.
-- Learning and developing projects in C.
-- Interested in data structures, algorithms and graph theory.
-- Languages: Portuguese (Brazilian) and English.
-- Linux user.
-
-</details>
-
-<details>
-<pre><code>
-<span style="color: #61afef;">        ........++++++++++++++++++++++++++</span>   <span style="color: #e06c75; font-weight: bold;">kaike@ufrrj-pc</span>
-<span style="color: #61afef;">       .......:.:+++++++++++++++++++++++++++</span>   <span style="color: #5c6370;">--------------------</span>
-<span style="color: #61afef;">      ........::.:++++++++++++++++++++++++++</span>   <span style="color: #98c379; font-weight: bold;">OS:</span> Ubuntu Linux (x86_64)
-<span style="color: #61afef;">     ..........:::.:+++++++++++++++++++++++++</span>   <span style="color: #98c379; font-weight: bold;">Host:</span> Custom Desktop Rig
-<span style="color: #61afef;">    ............:::::+++++++++++++++++++++++++</span>   <span style="color: #98c379; font-weight: bold;">Uptime:</span> 2nd Semester (2026)
-<span style="color: #61afef;">   ............::::::;;+++++++++++++++++++++++</span>   <span style="color: #98c379; font-weight: bold;">Host Institution:</span> UFRRJ (IM)
-<span style="color: #61afef;">   ............::::::;;+;++++++++++++++++++++++</span>  <span style="color: #98c379; font-weight: bold;">Degree:</span> Computer Science
-<span style="color: #61afef;">   ............::::::;;;;+;++++++++++++++++++++++</span>  <span style="color: #98c379; font-weight: bold;">Language:</span> C (Primary)
-<span style="color: #61afef;">  .............::::::;;;;;;++++;++.:+++++++++++++</span>  <span style="color: #98c379; font-weight: bold;">Interests:</span> Graphs & Data Structures
-<span style="color: #61afef;"> ..............::::::;;;;;;;;;:;: .. :+++++++++++</span>  <span style="color: #98c379; font-weight: bold;">Editor:</span> VS Code / Terminal
-<span style="color: #61afef;"> .......:.........:::::;;;;;.. .       .::+++++</span>  <span style="color: #98c379; font-weight: bold;">Version Control:</span> Git & GitHub
-<span style="color: #61afef;"> .........:........:::::;;;:   .       . .+++++</span>  <span style="color: #5c6370;">--------------------</span>
-<span style="color: #61afef;"> .........::........:...;;         .   ;;+++++</span>   <span style="color: #e5c07b;">Contact:</span>
-<span style="color: #61afef;"> ..........:.............             .:+++++</span>   <span style="color: #98c379;">GitHub:</span> @kaikea1meida
-<span style="color: #61afef;"> .......................   ...   ...:::. .     </span>   <span style="color: #98c379;">Status:</span> Building C Games
+<pre><code><span style="color: #61afef;">                ........++++++++++++++++++++++++++xxxxxxxxxxxx+++++++++++++++++++</span>   <span style="color: #e06c75; font-weight: bold;">kaike@ufrrj-pc</span>
+<span style="color: #61afef;">               .......:.:+++++++++++++++++++++++++++xxxxxxxx+x+xx+++++++++++++++++</span>   <span style="color: #5c6370;">--------------------</span>
+<span style="color: #61afef;">              ........::.:++++++++++++++++++++++++++xxxxxxxxxxxxx++++++++++++++++++</span>   <span style="color: #98c379; font-weight: bold;">OS:</span> Ubuntu Linux
+<span style="color: #61afef;">             ..........:::.:+++++++++++++++++++++++++xxxxxxxxxxxxxx++++++++++++++++++</span>   <span style="color: #98c379; font-weight: bold;">Host:</span> Custom Desktop Rig
+<span style="color: #61afef;">            ............:::::+++++++++++++++++++++++++xxxxxxxxxxxxxx++x+++++++++x+x+x+</span>  <span style="color: #98c379; font-weight: bold;">Institution:</span> UFRRJ (IM)
+<span style="color: #61afef;">           ............::::::;;+++++++++++++++++++++++xxxxxxxxxxxxxxx+xxx+++++++++xxxx</span>  <span style="color: #98c379; font-weight: bold;">Degree:</span> Computer Science
+<span style="color: #61afef;">           ............::::::;;+;++++++++++++++++++++++xxxxxxxxxxxxxx+xxxxx+++xx+xx+xx</span>  <span style="color: #98c379; font-weight: bold;">Semester:</span> 2nd (2026)
+<span style="color: #61afef;">           ............::::::;;;;+;++++++++++++++++++++++xxxxxxxxxxx++xxxxxx+xxxxxxxxx</span>  <span style="color: #98c379; font-weight: bold;">Language:</span> C (Primary)
+<span style="color: #61afef;">          .............::::::;;;;;;++++;++.:+++++++++++++++++xxxxxxxxxxxxxxxxxx+xxxxxx</span>  <span style="color: #98c379; font-weight: bold;">Interests:</span> Graphs & Data
+<span style="color: #61afef;">         ..............::::::;;;;;;;;;:;: .. :+++++++++++++++xxxxxxxxxxxxxxxxxxxxxxxxx</span>  <span style="color: #98c379; font-weight: bold;">Editor:</span> VS Code
+<span style="color: #61afef;">       .......:.........:::::;;;;;.. .         .::++++++++xxxxxxxxxxxxxxxxxxxxxxxxx</span>   <span style="color: #5c6370;">--------------------</span>
+<span style="color: #61afef;">      .........:........:::::;;;:   .         . . .+++++++xxxxxxxxxxxxxxxxxxx+xxxxx</span>   <span style="color: #e5c07b;">Contact:</span>
+<span style="color: #61afef;">      .........::........:...;;         .         ;;+++++++xxxxxxxxxxxxxxxxxxxxxxx</span>   <span style="color: #98c379;">GitHub:</span> @kaikea1meida
+<span style="color: #61afef;">      ..........:.............              .     .:+++++++xxxxxxxx+xxx+xxxxxxxxx</span>   <span style="color: #98c379;">Status:</span> Building C Games
+<span style="color: #61afef;">     .......................       ...   ...:::. .  .  .++++++++xxxx++++++xxxxxxxxxxx</span>
+<span style="color: #61afef;">     .......... ...........       ..:...::..++;.;::. . ::+++++x++++++++++x+xxxxxxxxxx</span>
+<span style="color: #61afef;">     ......................     .::;;;.:;+;:+;xxxxxxx....++++++++++++++++++x+xxxxxxxxx</span>
+<span style="color: #61afef;">     ........ .............    ::;;;+++++xxxxxxxxxxxxxx..++++++++++++++++++++xxxxxxxxx</span>
+<span style="color: #61afef;">   ...... . .............    ::;;+++xxxxxxxXXXXXXXxxx. ++++++++++++++++++++xxxxxxxxx</span>
+<span style="color: #61afef;">   ...  .  .::............  ::. ....;xXxxXXx;.:::.:x. ++++++++++++++++++++xxxxxxxxx</span>
+<span style="color: #61afef;">   ....  .....:........... :.;;+++;+;;+xXXXx+:;;xxX+x.+++++++++++++++++++++xxxxxxxx</span>
+<span style="color: #61afef;">   ....................... :;:.;..X:;:;+xxxx;x.+X.xXx+;++++++++++++++++++++xxxxxxxx</span>
+<span style="color: #61afef;">   ..  ...... .::........: :;;;;;++;;;;+xxxxxxxxxxxxx+;+++++++++++++++++++++xxxxxxx</span>
+<span style="color: #61afef;">          .......:;:;:....+;:;+++++++;:;++xxxxxxxxxxxxX;;++++++++++++++++++++xxxxxxx</span>
+<span style="color: #61afef;">  :::::::..:::..       ......::;;++++x+:;;xXXXxxxxxxxxXx;;;;+++++++++++++++++++++xxxxx</span>
+<span style="color: #61afef;">         .  ...:........;;;;+++x+;+:+xx+;xxxXXXxxx;+;;++++++++++++++++++++xxxxxx</span>
+<span style="color: #61afef;">        .             .:;;++++++;+x+xxxxxxXXXXx;;;;;;+++++++++++++++++++++xxxx</span>
+<span style="color: #61afef;">     ........        ..:;;+;++++;;;++xxxXXXXx:;;;;;;;++++++++++++++++++++xxxx</span>
+<span style="color: #61afef;">     .....           ...;;;;+;:::;;;;;+xxXXx;. ......::::;;;;;+++++++++++++xx</span>
+<span style="color: #61afef;">   ...               ....:;;;;;+++++xxxxXxx+.. .....................::::;;;++</span>
+<span style="color: #61afef;">   .          ..... .....:;;;;++++xxxxxx+++... ....: .. ..................</span>
+<span style="color: #61afef;">                     .... :::;;++xxxxxxx+++; ... ....... . . . : . .......</span>
+<span style="color: #61afef;">                     ..  .:;;:;++xxxxx++++;. ..  .................... . .....</span>
+<span style="color: #61afef;">                     .  :.:;+;;;;++++++++;:....... ... ......................</span>
+<span style="color: #61afef;">                        x..:;+++++++++++;;:.......     .....     ....... ......</span>
+<span style="color: #61afef;">                     ..+.::;;++x++++++;;:.......       ...     :::....  . ....</span>
+<span style="color: #61afef;">               .   . .  +.::;:;+++++++;;::......       ..      .....:.  ......</span>
+<span style="color: #61afef;">            .. . ...    .  +.::;:;;;;;;;:x:  ......        ......:... .:::.. . .</span>
+<span style="color: #61afef;">           ....... ..      .xX$Xxxx$$$XXxX.      ..        ......... .....:::::::</span>
+<span style="color: #61afef;">      ... . . . .  ...  .   .xXX$$$$$$XXx.               .......  ......:::::::</span>
+<span style="color: #61afef;">   ......  .....  ..  ..   +XxX$$$$$XXx. .    .           ......  ........:::::</span>
+<span style="color: #61afef;">   ..... . .......  ..  ..  +xXX$$X$&&XXX:... .  .  .       .......  .... ......:::</span>
+<span style="color: #61afef;">    ....  .......  ... ....  XXXXXx&&$XX$x ... .  .  .       .......  .. ..... .::..</span>
+<span style="color: #61afef;">   ... . ..  . .  ... .....x xxx$&&$XX$x.... .. . .     ... ... .. ... ..:....</span>
+<span style="color: #61afef;">     . .... . . ..........Xx xX$&&$$$$X..X.   . .. .      ... .....  .  ....... .</span>
+<span style="color: #61afef;">      ....  . ... ......XXX  X$&$$$X..+XX .... .. . ....  ..   ...      .....  ...</span>
+<span style="color: #61afef;">     ..  .   ..........XX$$. $&$$XX..XXxx... ...... ...  ..   ...     ..    ....</span>
+<span style="color: #61afef;">     .         .........:X$$$$X $$XXx..xXXXX........... ... ..     .     ...</span>
+<span style="color: #61afef;">           ..........XX$$$$X :XXx..xXXX$X;............... .     .          .    .</span>
+<span style="color: #61afef;">     .         ........XXX$$$$X  x+..XXXX$XXx........... .... ..    .          .    ..</span>
+<span style="color: #61afef;">     ..       .......X$$$$$$XX. ;.$XXXXXXXXX...:....... ..... .                ...</span>
+<span style="color: #61afef;"> .          ......XX$$$$$$$$x  X$XXXXXXXXX........... .... .                 ...</span>
+<span style="color: #61afef;"> .          .....X$$X$$$$$$$X .XXXXXXXXXX$X........... ..... .                 ...</span>
+<span style="color: #61afef;"> ....        ....X$$$$$$$$$$$;+$XXXXXXXXX$X..;........ ....  .                    .</span>
+<span style="color: #61afef;">   .           .XXX$$$$$$$$XX;+XXXXXXXXXXX$x.:.;...... .....                   .</span>
+<span style="color: #61afef;">               ;XXX$$$$$$$XXx  xxxxxxxXXXX$X.......... .....</span>
+<span style="color: #61afef;"> .          .xxxXXXXXXXXXXX..xX$$$$XXXXXXXX......... ....   .</span>
+<span style="color: #61afef;">              ;xxXXxXX:::xx+;..+xxxXXXXXXXX$$...................</span>
 </code></pre>
-</details>
 
+</details>
 ---
 
 ## `02.` Technologies & Knowledge
