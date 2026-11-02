@@ -27,7 +27,7 @@ Estou no **segundo período**. Tenho interesse em aprender mais sobre arquitetur
 o que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritmos para reconhecimento de Grafos Fortemente Cordais (Strongly Chordal Graphs) e um jogo que começou como um trabalho para as aulas de Programação Estruturada. Também estou começando a explorar a arquitetura MIPS, por conhecimento, não muito a fundo.
 
 <details>
-<summary><kbd><sub><b>&nbsp;clique para info sobre mim&nbsp;</b></sub></kbd></summary>
+<summary><h3><kbd><b>&nbsp;clique para info sobre mim&nbsp;</b></kbd></h3></summary>
 
 - Estudante de Ciência da Computação na UFRRJ.
 - 2º período.
@@ -39,7 +39,7 @@ o que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritm
 </details>
 
 <details>
-<summary><kbd><sub><b>&nbsp;clique - Fastfetch me!&nbsp;</b></sub></kbd></summary>
+<summary><h3><kbd><b>&nbsp;clique - Fastfetch me!&nbsp;</b></kbd></h3></summary>
 
 <br>
 
@@ -83,7 +83,7 @@ o que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritm
 
 Atualmente estou desenvolvendo um jogo em **C**, usando principalmente a biblioteca **Ncurses** para criar uma interface baseada em texto diretamente no terminal.
 <details>
-  <summary><kbd><sub><b>&nbsp;clique - Info e imagens do jogo&nbsp;</b></sub></kbd></summary>
+  <summary><h3><kbd><b>&nbsp;clique - Info e imagens do jogo&nbsp;</b></kbd></h3></summary>
   <img width="1396" height="678" alt="Captura de tela de 2026-11-02 16-08-54" src="https://github.com/user-attachments/assets/a2494cf0-74d7-46cb-b336-68a43acb8039" />
 <img width="875" height="879" alt="Captura de tela de 2026-11-02 16-12-27" src="https://github.com/user-attachments/assets/fe89d561-c332-4913-983c-4818f770309c" />
 <img width="875" height="879" alt="Captura de tela de 2026-11-02 16-11-44" src="https://github.com/user-attachments/assets/2c985d23-056e-4b58-a825-47fddfc407ef" />
@@ -131,7 +131,7 @@ Este projeto envolve o estudo de representações de grafos e a aplicação de e
 **Repositório:** [Biblioteca de Grafos Fortemente Cordais](https://github.com/kaikea1meida/Grafo.h)
 
 <details>
-<summary><kbd><sub><b>&nbsp;clique - Sobre o que é o projeto?&nbsp;</b></sub></kbd></summary>
+<summary><h3><kbd><b>&nbsp;clique - Sobre o que é o projeto?&nbsp;</b></kbd></h3></summary>
 
 ## Reconhecimento de Grafos Fortemente Cordais
 
@@ -154,11 +154,9 @@ Um grafo G é fortemente cordal se, e somente se, o seu grafo de incidência vé
 Como construímos:
 
 1. Executar uma Ordem de Eliminação Perfeita (OEP) em G, para termos certeza de que é pelo menos cordal, pois procurar cliques em um grafo não cordal pode ser NP-completo.
-<img width="670" height="334" alt="Matriz_Schordals" src="https://github.com/user-attachments/assets/6ddd4136-9677-44d6-9218-f1642b9863dd" />
 <details>
-  <summary><kbd><sub><b>&nbsp;sobre o gif&nbsp;</b></sub></kbd></summary>
+<summary><kbd><sub><b>&nbsp;sobre o gif&nbsp;</b></sub></kbd></summary>
   ##### *esta imagem não é do nosso projeto, mas representa quase exatamente o que estamos fazendo aqui, ela é de: https://oxfordcontrol.github.io/COSMO.jl/stable/decomposition/*
-
 </details>
 2. Para cada vértice na OEP, pegamos a sua vizinhança fechada restante.
 3. Verificamos se essa vizinhança já está contida em um clique existente em Y. Se não estiver, adicionamos um novo nó de clique a Y e o ligamos a todos os vértices dessa vizinhança.
