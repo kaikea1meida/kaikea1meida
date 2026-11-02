@@ -132,6 +132,7 @@ This project involves studying graph representations and applying data structure
 
 This project recognizes whether a graph G is strongly chordal by reducing the problem to checking if its auxiliary vertex-clique graph H(G) is chordal bipartite.
 
+We are also visualizing the graphs  trough adjacency matrices, only looking at one triangle ( superior or inferior depending on the necessity)
 ### Theoretical idea
 
 A graph G is strongly chordal if and only if its vertex-clique incidence graph H(G) is chordal bipartite.
@@ -146,7 +147,9 @@ A graph G is strongly chordal if and only if its vertex-clique incidence graph H
 
 How we build it:
 
-1. Run a Perfect Elimination Ordering (PEO) on G.
+1. Run a Perfect Elimination Ordering (PEO) on G, so that we are sure that it is cordal at least, because looking for cliques in a non cordal graph may be NP-complete.
+<img width="670" height="334" alt="Matriz_Schordals" src="https://github.com/user-attachments/assets/6ddd4136-9677-44d6-9218-f1642b9863dd" />
+##### *this image is not from our project but it represents almost exactly what we are doing here, it is from: https://oxfordcontrol.github.io/COSMO.jl/stable/decomposition/*
 2. For each vertex in the PEO, take its remaining closed neighborhood.
 3. Check if that neighborhood is already contained in an existing clique in Y. If it's not, add a new clique node to Y and link it to all vertices in that neighborhood.
 
