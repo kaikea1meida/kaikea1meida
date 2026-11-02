@@ -1,29 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="150" viewBox="0 0 700 150">
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="150" viewBox="0 0 920 150">
   <style>
-    .ascii { font-family: monospace; font-size: 14px; fill: #c9d1d9; white-space: pre; }
-    .plus { font-family: sans-serif; font-size: 35px; fill: #c9d1d9; font-weight: bold; }
+    .ascii {
+      font-family: "Consolas", "Courier New", monospace;
+      font-size: 15px;
+      fill: #c9d1d9;
+    }
+    .plus {
+      font-family: sans-serif;
+      font-size: 38px;
+      fill: #c9d1d9;
+      font-weight: bold;
+    }
     /* Adapta a cor da fonte automaticamente caso o visitante use o GitHub no tema claro */
     @media (prefers-color-scheme: light) {
       .ascii, .plus { fill: #24292f; }
     }
   </style>
 
-  <!-- Logo C (Hexágono Azul Nativo) -->
-  <g transform="translate(20, 35) scale(0.625)">
-    <path fill="#00599C" d="M118.2 24.3L67.1 1.7c-2-1-4.4-1-6.4 0L10.3 24.3c-2 1-3.2 2.9-3.2 5.1v56.8c0 2.2 1.3 4.2 3.2 5.1l50.4 22.6c2 1 4.4 1 6.4 0l50.4-22.6c2-1 3.2-2.9 3.2-5.1V29.4c.1-2.2-1.1-4.2-2.5-5.1z" />
-    <path fill="#FFF" d="M85 86.8c-6.1 7.1-15 11.2-24.5 11.2-17.7 0-32-14.3-32-32s14.3-32 32-32c9.6 0 18.4 4.1 24.5 11.2l-11.8 11.8c-3.1-3.5-7.7-5.5-12.7-5.5-9.3 0-16.8 7.5-16.8 16.8s7.5 16.8 16.8 16.8c5 0 9.6-2 12.7-5.5L85 86.8z" />
+  <!-- Logo do C Oficial 3D (3 faces isométricas originais + C vazado) -->
+  <g transform="translate(15, 20) scale(0.85)">
+    <!-- Face Superior (Azul Claro) -->
+    <path fill="#659AD2" d="M 64 0 L 119.426 32 L 64 64 L 8.574 32 Z" />
+    <!-- Face Esquerda/Inferior (Azul Médio) -->
+    <path fill="#00599C" d="M 8.574 32 L 64 64 L 64 128 L 8.574 96 Z" />
+    <!-- Face Direita/Sombra (Azul Escuro) -->
+    <path fill="#002A54" d="M 119.426 32 L 119.426 96 L 64 128 L 64 64 Z" />
+    <!-- Letra C Branca sobreposta -->
+    <path fill="#FFFFFF" d="M 87.5 40.5 C 81 33.5 72.5 30 63 30 C 44.2 30 29 45.2 29 64 C 29 82.8 44.2 98 63 98 C 72.5 98 81 94.5 87.5 87.5 L 74.5 74.5 C 71.5 78 67.5 80 63 80 C 54.2 80 47 72.8 47 64 C 47 55.2 54.2 48 63 48 C 67.5 48 71.5 50 74.5 53.5 Z" />
   </g>
 
-  <!-- Sinal de Adição -->
-  <text x="125" y="85" class="plus">+</text>
+  <!-- Sinal de Adição (+) -->
+  <text x="135" y="80" class="plus">+</text>
 
-  <!-- Arte ASCII Ncurses -->
-  <text x="170" y="40" class="ascii">
-    <tspan x="170" dy="0">███╗   ██╗ ██████╗██╗   ██╗██████╗ ███████╗███████╗███████╗</tspan>
-    <tspan x="170" dy="16">████╗  ██║██╔════╝██║   ██║██╔══██╗██╔════╝██╔════╝██╔════╝</tspan>
-    <tspan x="170" dy="16">██╔██╗ ██║██║     ██║   ██║██████╔╝███████╗█████╗  ███████╗</tspan>
-    <tspan x="170" dy="16">██║╚██╗██║██║     ██║   ██║██╔══██╗╚════██║██╔══╝  ╚════██║</tspan>
-    <tspan x="170" dy="16">██║ ╚████║╚██████╗╚██████╔╝██║  ██║███████║███████╗███████║</tspan>
-    <tspan x="170" dy="16">╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝</tspan>
+  <!-- Sua arte ASCII híbrida do Ncurses com efeito de sombra 3D -->
+  <text class="ascii" xml:space="preserve">
+    <tspan x="175" y="28"> ██████╗  █████╗                                                       </tspan>
+    <tspan x="175" y="41">  ██████╗  ███╔╝                                                       </tspan>
+    <tspan x="175" y="54">  ███║███╗ ███║  ██████╗ █████╗████╗████████╗  ██████╗ █████╗   ██████╗</tspan>
+    <tspan x="175" y="67">  ███║ ███╗███║ ███╔═███╗ ███╔╝███╔╝ ███╔═███╗███╔═══╝███╔═███╗███╔═══╝</tspan>
+    <tspan x="175" y="80">  ███║  ██████║ ███║ ╚══╝ ███║ ███║  ███║ ╚══╝ █████  ███████╔╝ █████╗ </tspan>
+    <tspan x="175" y="93">  ███║   █████║ ███║ ███╗ ███║ ███║  ███║      ╚══███╗███╔═══╝  ╚══███╗</tspan>
+    <tspan x="175" y="106"> █████╗   █████╗ ██████╔╝  ████████║█████╗    ██████╔╝╚██████  ██████╔╝</tspan>
+    <tspan x="175" y="119"> ╚════╝   ╚════╝ ╚═════╝   ╚═══════╝╚════╝    ╚═════╝  ╚═════╝ ╚═════╝ </tspan>
   </text>
 </svg>
