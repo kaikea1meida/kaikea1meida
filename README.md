@@ -125,26 +125,8 @@ Most of my current studies involve projects in **C**, including algorithms for r
 ## `03.` Currently working on
 
 ### 🎮 Terminal Game — C + Ncurses
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="middle" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="90" alt="C logo">
-      </td>
-      <td align="center" valign="middle" width="60">
-        <h1>+</h1>
-      </td>
-      <td align="left" valign="middle">
-<pre><code>███╗   ██╗ ██████╗██╗   ██╗██████╗ ███████╗███████╗███████╗
-████╗  ██║██╔════╝██║   ██║██╔══██╗██╔════╝██╔════╝██╔════╝
-██╔██╗ ██║██║     ██║   ██║██████╔╝███████╗█████╗  ███████╗
-██║╚██╗██║██║     ██║   ██║██╔══██╗╚════██║██╔══╝  ╚════██║
-██║ ╚████║╚██████╗╚██████╔╝██║  ██║███████║███████╗███████║
-╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝</code></pre>
-      </td>
-    </tr>
-  </table>
+  <img src="./ncurses-banner.svg" alt="C + Ncurses">
 </div>
 
 I'm currently developing a game in **C**, using mainly the **Ncurses** library to create a text-based interface directly in the terminal.
