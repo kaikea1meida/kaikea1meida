@@ -100,12 +100,12 @@ The project started as an opportunity during my first semester to explore termin
 
 About Ncurses and the in development game!
 
-**Ncurses.md:** **[Ncurses — Basic Concepts and Introduction](https://github.com/kaikeaes/while_playing_not_studying-OO-/blob/main/explicancurses.md)**
+### **Ncurses.md:** **[Ncurses — Basic Concepts and Introduction](https://github.com/kaikeaes/while_playing_not_studying-OO-/blob/main/explicancurses.md)**
 
-**Repository:** [While Playing Not Studying — C Game](https://github.com/leoeowoeo/while_playing_not_studying-OO-)
+### **Repository:** [While Playing Not Studying — C Game](https://github.com/leoeowoeo/while_playing_not_studying-OO-)
 
 
-### Strongly Chordal Graphs Library
+# Strongly Chordal Graphs Library
 
 Another project I'm working on is a library related to **strongly chordal graphs**, using graph data structures.
 
