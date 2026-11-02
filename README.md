@@ -27,7 +27,7 @@ I'm currently in my **second semester**. I'm interested in learning more about c
 Most of my current studies involve projects in **C**, including algorithms for recognizing strongly chordal graphs and a game that started as an assignment for my Structured Programming classes. I'm also beginning to explore MIPS architecture.
 
 <details>
-<summary><h3><kbd><b>&nbsp;click info about me&nbsp;</b></kbd></h3></summary>
+<summary><h1><kbd><b>&nbsp;click info about me&nbsp;</b></kbd></h1></summary>
 
 - Computer Science student at UFRRJ.
 - Currently in the 2nd semester.
@@ -39,7 +39,7 @@ Most of my current studies involve projects in **C**, including algorithms for r
 </details>
 
 <details>
-<summary><h3><kbd><b>&nbsp;click - Fastfetch me!&nbsp;</b></kbd></h3></summary>
+<summary><h1><kbd><b>&nbsp;click - Fastfetch me!&nbsp;</b></kbd></h1></summary>
 
 <br>
 
@@ -131,7 +131,7 @@ This project involves studying graph representations and applying data structure
 **Repository:** [Strongly Chordal Graphs Library](https://github.com/kaikea1meida/Grafo.h)
 
 <details>
-<summary><h3><kbd><b>&nbsp;click - What is the project about?&nbsp;</b></kbd></h3></summary>
+<summary><h1><kbd><b>&nbsp;click - What is the project about?&nbsp;</b></kbd></h1></summary>
 
 ## Strongly Chordal Graph Recognition
 
