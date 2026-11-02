@@ -238,13 +238,6 @@ How we build it:
 <img src="https://streak-stats.demolab.com?user=kaikea1meida&theme=tokyonight&hide_border=true" alt="GitHub streak statistics">
 
 </div>
-
-<details>
-<summary><b>About these statistics</b></summary>
-
-- [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-</details>
 ---
 
 ## `05.` Contact
