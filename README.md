@@ -98,10 +98,8 @@ The project started as an opportunity during my first semester to explore termin
 
 **Documentation:** I'm also writing my own README explaining the basic concepts of Ncurses, its main functions and how to get started with the library.
 
-**[Ncurses — Basic Concepts and Introduction](./README_NCURSES.md)**
-
 <details>
-<summary><b>What is Ncurses?</b></summary>
+<summary><b>About Ncurses and the in development game?</b></summary>
 
 Ncurses is a library that allows developers to create text-based user interfaces in the terminal.
 
@@ -112,6 +110,10 @@ It provides features such as:
 - Text positioning.
 - Colors and terminal windows.
 - Updating the terminal display.
+
+
+**[Ncurses — Basic Concepts and Introduction](https://github.com/kaikeaes/while_playing_not_studying-OO-/blob/main/explicancurses.md)**
+
 
 **Repository:** [While Playing Not Studying — C Game](https://github.com/leoeowoeo/while_playing_not_studying-OO-)
 
