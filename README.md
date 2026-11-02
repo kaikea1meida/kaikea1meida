@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="README.md">English</a> | <a href="README-pt.md">Português</a>
+</div>
+
 <div align="center">
 
 # Ooooii!!!
