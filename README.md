@@ -235,12 +235,6 @@ How we build it:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaikea1meida&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikea1meida&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
-
-<br>
-
 <img src="https://streak-stats.demolab.com?user=kaikea1meida&theme=tokyonight&hide_border=true" alt="GitHub streak statistics">
 
 </div>
@@ -248,11 +242,9 @@ How we build it:
 <details>
 <summary><b>About these statistics</b></summary>
 
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </details>
-
 ---
 
 ## `05.` Contact
