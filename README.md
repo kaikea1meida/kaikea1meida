@@ -9,8 +9,7 @@
 ### Kaike Almeida
 
 **Computer Science Student | C Developer | Graphs & Data Structures**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaikea1meida)
+[![University](https://www.google.com/imgres?q=ufrrj&imgurl=https%3A%2F%2Finstitucional.ufrrj.br%2Fccs%2Ffiles%2F2019%2F06%2Frural_logo02.png&imgrefurl=https%3A%2F%2Finstitucional.ufrrj.br%2Fccs%2Flogomarcas-da-ufrrj-para-download%2F&docid=SIc2trbnNkb_kM&tbnid=0sxqeOYT6XW20M&vet=12ahUKEwjmoKSHwumXAxWGupUCHcUACaUQnPAOegUIqQIQAA..i&w=1320&h=1244&hcb=2&ved=2ahUKEwjmoKSHwumXAxWGupUCHcUACaUQnPAOegUIqQIQAA)
 [![University](https://img.shields.io/badge/UFRRJ-Computer%20Science-2e8b57?style=for-the-badge)](https://portal.ufrrj.br/)
 [![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
 
