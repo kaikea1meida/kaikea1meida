@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 # Ooooii!!!
@@ -8,7 +6,7 @@
 ## >'Kaike Almeida'
 
 **Computer Science Student | C Developer | Graphs & Data Structures**
-[![University](https://img.www.google.com/imgres?q=ufrrj&imgurl=https%3A%2F%2Finstitucional.ufrrj.br%2Fccs%2Ffiles%2F2019%2F06%2Frural_logo02.png&imgrefurl=https%3A%2F%2Finstitucional.ufrrj.br%2Fccs%2Flogomarcas-da-ufrrj-para-download%2F&docid=SIc2trbnNkb_kM&tbnid=0sxqeOYT6XW20M&vet=12ahUKEwjmoKSHwumXAxWGupUCHcUACaUQnPAOegUIqQIQAA..i&w=1320&h=1244&hcb=2&ved=2ahUKEwjmoKSHwumXAxWGupUCHcUACaUQnPAOegUIqQIQAA)
+[![University](https://img.www.google.com/imgres?q=ufrrj&imgurl=https%3A%2F%2Finstitucional.ufrrj.br%2Fccs%2Ffiles%2F2019%2F06%2Frural_logo02.png&imgrefurl=https%3A%2F%2Finstitucional.ufrrj.br%2Fccs%2Flogomarcas-da-ufrrj-para-download%2F&docid=SIc2trbnNkb_kM&tbnid=0sxqeOYT6XW20M&vet=12ahUKEwjmoKSHwumXAxWGupUCHcUACaUQnPAOegUIqQIQAA..i&w=1320&h=1244&hcb=2&ved=2ahUKEwjmoKSHwumXAxWGupUCHcUACaUQnPAOegUIqQIQAA)](https://portal.ufrrj.br/)
 [![University](https://img.shields.io/badge/UFRRJ-Computer%20Science-2e8b57?style=for-the-badge)](https://portal.ufrrj.br/)
 [![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
 
@@ -44,6 +42,7 @@ Most of my current studies involve projects in **C**, including algorithms for r
 </p>
 
 </details>
+
 ---
 
 ## `02.` Technologies & Knowledge
@@ -64,6 +63,9 @@ Most of my current studies involve projects in **C**, including algorithms for r
 | Operating system | Linux |
 | Version control | Git and GitHub |
 | Languages | Portuguese and English |
+
+---
+
 ## `03.` Currently working on
 
 ### 🎮 Terminal Game — C + Ncurses
@@ -77,22 +79,10 @@ The project started as an opportunity during my first semester to explore termin
 
 <br>
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/Ncurses-Terminal%20UI-222222?style=flat-square&logo=gnubash&logoColor=white" alt="Ncurses">
   <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" alt="In development">
-</div>
-
-I'm currently developing a game in **C**, using mainly the **Ncurses library** to create a text-based interface directly in the terminal.
-
-The project started as an opportunity during my first semester to explore terminal-based interfaces, keyboard interaction, screen rendering and the practical application of programming concepts. It also involves working with sprites, memory loading and binary archives.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/Ncurses-Terminal%20UI-222222?style=flat-square&logo=gnubash&logoColor=white" alt="Ncurses">
-<img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" alt="In development">
-
 </div>
 
 **Documentation:** I'm also writing my own README explaining the basic concepts of Ncurses, its main functions and how to get started with the library.
@@ -123,11 +113,9 @@ Another project I'm working on is a library related to **strongly chordal graphs
 This project involves studying graph representations and applying data structures to work with graph-related problems.
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/Topic-Graph%20Theory-6A5ACD?style=flat-square" alt="Graph theory">
-<img src="https://img.shields.io/badge/Topic-Data%20Structures-2E8B57?style=flat-square" alt="Data structures">
-
+  <img src="https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Topic-Graph%20Theory-6A5ACD?style=flat-square" alt="Graph theory">
+  <img src="https://img.shields.io/badge/Topic-Data%20Structures-2E8B57?style=flat-square" alt="Data structures">
 </div>
 
 **Repository:** [Strongly Chordal Graphs Library](https://github.com/kaikea1meida/Grafo.h)
@@ -180,6 +168,7 @@ How we build it:
 <img src="https://streak-stats.demolab.com?user=kaikea1meida&theme=tokyonight&hide_border=true" alt="GitHub streak statistics">
 
 </div>
+
 ---
 
 ## `05.` Contact
@@ -199,4 +188,3 @@ How we build it:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:24292e&height=100&section=footer" width="100%" alt="Footer decoration">
 
 </div>
-
