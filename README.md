@@ -2,10 +2,10 @@
 
 <div align="center">
 
-# > Ooooii!!!
+# Ooooii!!!
 
 
-## 'Kaike Almeida'
+## >'Kaike Almeida'
 
 **Computer Science Student | C Developer | Graphs & Data Structures**
 [![University](https://img.www.google.com/imgres?q=ufrrj&imgurl=https%3A%2F%2Finstitucional.ufrrj.br%2Fccs%2Ffiles%2F2019%2F06%2Frural_logo02.png&imgrefurl=https%3A%2F%2Finstitucional.ufrrj.br%2Fccs%2Flogomarcas-da-ufrrj-para-download%2F&docid=SIc2trbnNkb_kM&tbnid=0sxqeOYT6XW20M&vet=12ahUKEwjmoKSHwumXAxWGupUCHcUACaUQnPAOegUIqQIQAA..i&w=1320&h=1244&hcb=2&ved=2ahUKEwjmoKSHwumXAxWGupUCHcUACaUQnPAOegUIqQIQAA)
@@ -132,27 +132,12 @@ Most of my current studies involve projects in **C**, including algorithms for r
 
 My main programming language so far. I'm using C to practice programming logic, memory management, pointers, algorithms and data structures.
 
-</details>
-
-<details>
-<summary><b>Tools and environment</b></summary>
-
-- **Linux:** My development environment.
-- **Git and GitHub:** Version control and project hosting.
-
-</details>
-
----
-
-## `03.` Currently working on
-<div align="center">
-
-<table>
+<table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-           width="130"
-           alt="C">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+           width="110"
+           alt="C logo">
     </td>
 
     <td align="center" valign="middle">
@@ -164,15 +149,13 @@ My main programming language so far. I'm using C to practice programming logic, 
 ███╗   ██╗ ██████╗██╗   ██╗██████╗ ███████╗███████╗███████╗
 ████╗  ██║██╔════╝██║   ██║██╔══██╗██╔════╝██╔════╝██╔════╝
 ██╔██╗ ██║██║     ██║   ██║██████╔╝███████╗█████╗  ███████╗
-██║╚██╗██║██║     ██║   ██║██╔══██╗╚════██║╚════╝  ╚════██║
+██║╚██╗██║██║     ██║   ██║██╔══██╗╚════██║██╔══╝  ╚════██║
 ██║ ╚████║╚██████╗╚██████╔╝██║  ██║███████║███████╗███████║
 ╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
       </pre>
     </td>
   </tr>
 </table>
-
-</div>
 
 I'm currently developing a game in **C**, using mainly the **Ncurses library** to create a text-based interface directly in the terminal.
 
