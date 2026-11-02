@@ -2,11 +2,10 @@
 
 <div align="center">
 
-# `> Ooooii!!!`
+# > Ooooii!!!
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="75" alt="C logo">
 
-### Kaike Almeida
+## 'Kaike Almeida'
 
 **Computer Science Student | C Developer | Graphs & Data Structures**
 [![University](https://img.www.google.com/imgres?q=ufrrj&imgurl=https%3A%2F%2Finstitucional.ufrrj.br%2Fccs%2Ffiles%2F2019%2F06%2Frural_logo02.png&imgrefurl=https%3A%2F%2Finstitucional.ufrrj.br%2Fccs%2Flogomarcas-da-ufrrj-para-download%2F&docid=SIc2trbnNkb_kM&tbnid=0sxqeOYT6XW20M&vet=12ahUKEwjmoKSHwumXAxWGupUCHcUACaUQnPAOegUIqQIQAA..i&w=1320&h=1244&hcb=2&ved=2ahUKEwjmoKSHwumXAxWGupUCHcUACaUQnPAOegUIqQIQAA)
@@ -146,8 +145,34 @@ My main programming language so far. I'm using C to practice programming logic, 
 ---
 
 ## `03.` Currently working on
+<div align="center">
 
-### Terminal Game — C + Ncurses
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+           width="130"
+           alt="C">
+    </td>
+
+    <td align="center" valign="middle">
+      <h1>+</h1>
+    </td>
+
+    <td align="center" valign="middle">
+      <pre>
+███╗   ██╗ ██████╗██╗   ██╗██████╗ ███████╗███████╗███████╗
+████╗  ██║██╔════╝██║   ██║██╔══██╗██╔════╝██╔════╝██╔════╝
+██╔██╗ ██║██║     ██║   ██║██████╔╝███████╗█████╗  ███████╗
+██║╚██╗██║██║     ██║   ██║██╔══██╗╚════██║╚════╝  ╚════██║
+██║ ╚████║╚██████╗╚██████╔╝██║  ██║███████║███████╗███████║
+╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
+      </pre>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 I'm currently developing a game in **C**, using mainly the **Ncurses library** to create a text-based interface directly in the terminal.
 
