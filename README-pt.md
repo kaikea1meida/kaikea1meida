@@ -17,19 +17,19 @@
 
 ---
 
-## `01.` Sobre mim
+## `01.` Sobre mim!!
 
-Oi!! Eu sou o **Kaike**, estudante de graduação em Ciência da Computação na **Universidade Federal Rural do Rio de Janeiro (UFRRJ - Instituto Multidisciplinar)**.
+Oiii!! Eu sou o **Kaike**, estudante graduando em Ciência da Computação na **Universidade Federal Rural do Rio de Janeiro (UFRRJ - Instituto Multidisciplinar)**.
 
-Estou atualmente no **segundo período**. Tenho interesse em aprender mais sobre arquitetura de computadores, teoria dos grafos e estruturas de dados, bem como entender como funcionam e como podem ser usados para melhorar as minhas habilidades de resolução de problemas.
+Estou no **segundo período**. Tenho interesse em aprender mais sobre arquitetura de computadores, teoria dos grafos e estruturas de dados,pra entender como eles funcionam, se interligam e como podem ser usados para melhorar a minha eficiência na resolução de problemas.
 
-A maior parte dos meus estudos atuais envolve projetos em **C**, incluindo algoritmos para reconhecimento de grafos fortemente cordais e um jogo que começou como um trabalho para as aulas de Programação Estruturada. Também estou começando a explorar a arquitetura MIPS.
+o que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritmos para reconhecimento de Grafos Fortemente Cordais (Strongly Chordal Graphs) e um jogo que começou como um trabalho para as aulas de Programação Estruturada. Também estou começando a explorar a arquitetura MIPS, por conhecimento, não muito a fundo.
 
 <details>
 <summary><kbd><sub><b>&nbsp;clique para info sobre mim&nbsp;</b></sub></kbd></summary>
 
 - Estudante de Ciência da Computação na UFRRJ.
-- Atualmente no 2º período.
+- 2º período.
 - Aprendendo e desenvolvendo projetos em C.
 - Interessado em estruturas de dados, algoritmos e teoria dos grafos.
 - Idiomas: Português (Nativo) e Inglês.
@@ -101,7 +101,7 @@ O projeto começou como uma oportunidade durante meu primeiro período para expl
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=flat-square" alt="Em desenvolvimento">
 </div>
 
-**Documentação:** Também estou escrevendo meu próprio README explicando os conceitos básicos da Ncurses, suas funções principais e como começar com a biblioteca.
+**Documentação:** Também estou escrevendo meu próprio README explicando os conceitos básicos da Ncurses, suas funções principais e como começar com a biblioteca, já que adiquiri um conhecimento bom na feitura do jogo.
 
 Sobre a Ncurses e o jogo em desenvolvimento!
 
@@ -152,14 +152,14 @@ Um grafo G é fortemente cordal se, e somente se, o seu grafo de incidência vé
 
 Como construímos:
 
-1. Executar uma Ordem de Eliminação Perfeita (PEO) em G, para termos certeza de que é pelo menos cordal, pois procurar cliques em um grafo não cordal pode ser NP-completo.
+1. Executar uma Ordem de Eliminação Perfeita (OEP) em G, para termos certeza de que é pelo menos cordal, pois procurar cliques em um grafo não cordal pode ser NP-completo.
 <img width="670" height="334" alt="Matriz_Schordals" src="https://github.com/user-attachments/assets/6ddd4136-9677-44d6-9218-f1642b9863dd" />
 <details>
   <summary><kbd><sub><b>&nbsp;sobre o gif&nbsp;</b></sub></kbd></summary>
   ##### *esta imagem não é do nosso projeto, mas representa quase exatamente o que estamos fazendo aqui, ela é de: https://oxfordcontrol.github.io/COSMO.jl/stable/decomposition/*
 
 </details>
-2. Para cada vértice na PEO, pegamos a sua vizinhança fechada restante.
+2. Para cada vértice na OEP, pegamos a sua vizinhança fechada restante.
 3. Verificamos se essa vizinhança já está contida em um clique existente em Y. Se não estiver, adicionamos um novo nó de clique a Y e o ligamos a todos os vértices dessa vizinhança.
 
 #### 2. Eliminação bissimplicial em H(G)
