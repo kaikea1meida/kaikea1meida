@@ -34,6 +34,9 @@ Most of my current studies involve projects in **C**, including algorithms for r
 - Languages: Portuguese (Brazilian) and English.
 - Linux user.
 
+</details>
+
+<details>
 <summary><b>Me!!</b></summary>
 <div align="center">
   <img src="eueu-avatar.svg" alt="Avatar ASCII">
