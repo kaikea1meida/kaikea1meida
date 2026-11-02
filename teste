@@ -1,12 +1,14 @@
 python3 -c '
 from PIL import Image, ImageDraw, ImageFont
 
-img = Image.new("RGBA", (750, 380), (13, 17, 23, 255))
+# Aumentado de 750 para 880 para dar mais largura ao lado direito
+img = Image.new("RGBA", (880, 380), (13, 17, 23, 255))
 d = ImageDraw.Draw(img)
 
 try:
     font_ascii = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf", 6)
-    font_text = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf", 15)
+    # Ajustado para 12 para caberem textos mais compridos sem cortar
+    font_text = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf", 12)
 except:
     font_ascii = ImageFont.load_default()   
     font_text = ImageFont.load_default()
@@ -26,7 +28,7 @@ ascii_art_lines = [
     ":....:::......::::::::::::::::::::::::.::::::::::..:::::::... =-@@=%==.=+:++..:*     . @%%#=-:...::::::::::.::     :",
     ":::::::::::::::::::::::::::::::::::::.::::::::::.::.::.:::::.  .##.    . ..::  . --#-+-.-. ..@  . +.. :                ",
     "...::....:::::::::::::::....:::::....:::::::::::.::::...  :*@ .=...+.:.: ..@@#= : ..-:.... .#++  %--  .    ",
-    ".:::..:::........:::::::::::::::::::.:::::::::::.:::..:*+@+@ .:.-*..-.+..@.-. . . ....=:.:: .-:....-%-:.            ",
+    ".:::..:::........:::::::::::::::::::.:::..:*+@+@ .:.-*..-.+..@.-. . . ....=:.:: .-:....-%-:.            ",
     ":::::..::::::::::::::::::...::::::....:::::::::::::..=+  . . ..-.=--.-. . ..: .=.*..+..=..-.:..:::.  . *..          ",
     "::..:::::::::..::::::::.:::::::::::::...::...::::: .+.. :...=.-::. .. +==+-.-: -=.. :::.#.....-::*:.::..#:...       ",
     "..::...:.........:::::..::::::::::::..:::::.:.....:=- #-.:... -:.= . @..   ...    .-.-. .#:.........=-:  .*:.       :",
@@ -103,9 +105,9 @@ for line in ascii_art_lines:
     d.text((10, y), line, fill="#c9d1d9", font=font_ascii)
     y += 5.0
 
-# Lado Direito: Linhas com coordenadas fixas, mas com espaçamento vertical seguro (aumentado para evitar sobreposições)
+# Lado Direito: Coordenadas fixas adaptadas para a nova largura (880px)
 d.text((430, 30), "kaike@ufrrj-pc", fill="#e06c75", font=font_text)
-d.text((430, 48), "--------------------", fill="#5c6370", font=font_text)
+d.text((430, 48), "----------------------------------------", fill="#5c6370", font=font_text)
 d.text((430, 72), "OS:", fill="#98c379", font=font_text)
 d.text((485, 72), "Ubuntu Linux (x86_64)", fill="#c9d1d9", font=font_text)
 d.text((430, 94), "Host:", fill="#98c379", font=font_text)
@@ -124,13 +126,13 @@ d.text((430, 226), "Editor:", fill="#98c379", font=font_text)
 d.text((495, 226), "VS Code / Terminal", fill="#c9d1d9", font=font_text)
 d.text((430, 248), "Git:", fill="#98c379", font=font_text)
 d.text((465, 248), "Git & GitHub", fill="#c9d1d9", font=font_text)
-d.text((430, 270), "--------------------", fill="#5c6370", font=font_text)
+d.text((430, 270), "----------------------------------------", fill="#5c6370", font=font_text)
 d.text((430, 294), "Contact:", fill="#e5c07b", font=font_text)
 d.text((430, 316), "GitHub:", fill="#98c379", font=font_text)
-d.text((495, 316), "@kaikea1meida||kaikeaes@gmail.com", fill="#c9d1d9", font=font_text)
+d.text((495, 316), "@kaikea1meida || kaikeaes@gmail.com", fill="#c9d1d9", font=font_text)
 d.text((430, 338), "Status:", fill="#98c379", font=font_text)
-d.text((495, 338), "Building C Games and Schordal project", fill="#c9d1d9", font=font_text)
+d.text((495, 338), "Building C Games and Chordal project", fill="#c9d1d9", font=font_text)
 
 img.save("eueu-avatar.png")
-print("PNG gerado com sucesso!")
+print("PNG gerado com largura expandida e textos ajustados!")
 '
