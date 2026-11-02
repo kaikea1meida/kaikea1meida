@@ -22,7 +22,7 @@ I'm currently in my **second semester**. I'm interested in learning more about c
 Most of my current studies involve projects in **C**, including algorithms for recognizing strongly chordal graphs and a game that started as an assignment for my Structured Programming classes. I'm also beginning to explore MIPS architecture.
 
 <details>
-<summary><b>More about me</b></summary>
+<summary><b>click info about me</b></summary>
 
 - Computer Science student at UFRRJ.
 - Currently in the 2nd semester.
@@ -34,7 +34,7 @@ Most of my current studies involve projects in **C**, including algorithms for r
 </details>
 
 <details>
-<summary><b>Me!!</b></summary>
+<summary><b>click - Fastfetch me!</b></summary>
 
 <br>
 
@@ -78,6 +78,7 @@ Most of my current studies involve projects in **C**, including algorithms for r
 
 I'm currently developing a game in **C**, using mainly the **Ncurses** library to create a text-based interface directly in the terminal.
 <details>
+  <summary><b>click - Game info and pictures</b></summary>
   <img width="1396" height="678" alt="Captura de tela de 2026-11-02 16-08-54" src="https://github.com/user-attachments/assets/a2494cf0-74d7-46cb-b336-68a43acb8039" />
 <img width="875" height="879" alt="Captura de tela de 2026-11-02 16-12-27" src="https://github.com/user-attachments/assets/fe89d561-c332-4913-983c-4818f770309c" />
 <img width="875" height="879" alt="Captura de tela de 2026-11-02 16-11-44" src="https://github.com/user-attachments/assets/2c985d23-056e-4b58-a825-47fddfc407ef" />
@@ -120,7 +121,7 @@ This project involves studying graph representations and applying data structure
 **Repository:** [Strongly Chordal Graphs Library](https://github.com/kaikea1meida/Grafo.h)
 
 <details>
-<summary><b>What is the project about?</b></summary>
+<summary><b>click - What is the project about?</b></summary>
 
 ## Strongly Chordal Graph Recognition
 
@@ -172,6 +173,9 @@ How we build it:
 
 ## `05.` Contact
 
+### email - kaikeaes@gmail.com
+### instagram - @kaikea1meida
+### discord bacato.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaikea1meida)
