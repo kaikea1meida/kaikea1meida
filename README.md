@@ -36,9 +36,13 @@ Most of my current studies involve projects in **C**, including algorithms for r
 <details>
 <summary><b>Me!!</b></summary>
 
+<br>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kaikea1meida/kaikea1meida/main/eueu-avatar.png" alt="Avatar ASCII" width="750">
+  <img src="./eueu-avatar.png" alt="Avatar ASCII" width="750">
 </p>
+
+<br>
 
 </details>
 
