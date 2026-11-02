@@ -32,13 +32,11 @@ Most of my current studies involve projects in **C**, including algorithms for r
 - Languages: Portuguese (Brazilian) and English.
 - Linux user.
 
-</details>
-
 <details>
 <summary><b>Me!!</b></summary>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kaikea1meida/kaikea1meida/main/eueu-avatar.svg" alt="Avatar ASCII" width="750">
+  <img src="https://raw.githubusercontent.com/kaikea1meida/kaikea1meida/main/eueu-avatar.png" alt="Avatar ASCII" width="750">
 </p>
 
 </details>
