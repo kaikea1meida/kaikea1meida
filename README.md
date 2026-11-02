@@ -122,40 +122,33 @@ Most of my current studies involve projects in **C**, including algorithms for r
 | Operating system | Linux |
 | Version control | Git and GitHub |
 | Languages | Portuguese and English |
+## `03.` Currently working on
 
-<details>
-<summary><b>Programming language</b></summary>
+### 🎮 Terminal Game — C + Ncurses
 
-### C
+<br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" alt="C">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="90" alt="C logo">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Plus_symbol.svg/500px-Plus_symbol.svg.png" width="30" alt="Plus symbol">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NCURSES-1F1F1F?style=for-the-badge&logo=gnu&logoColor=white" height="40" alt="Ncurses logo">
+</div>
 
-My main programming language so far. I'm using C to practice programming logic, memory management, pointers, algorithms and data structures.
+<br>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-           width="110"
-           alt="C logo">
-    </td>
+I'm currently developing a game in **C**, using mainly the **Ncurses** library to create a text-based interface directly in the terminal.
 
-    <td align="center" valign="middle">
-      <h1>+</h1>
-    </td>
+The project started as an opportunity during my first semester to explore terminal-based interfaces, keyboard interaction, screen rendering and the practical application of programming concepts. It also involves working with sprites, memory loading and binary archives.
 
-    <td align="center" valign="middle">
-      <pre>
-███╗   ██╗ ██████╗██╗   ██╗██████╗ ███████╗███████╗███████╗
-████╗  ██║██╔════╝██║   ██║██╔══██╗██╔════╝██╔════╝██╔════╝
-██╔██╗ ██║██║     ██║   ██║██████╔╝███████╗█████╗  ███████╗
-██║╚██╗██║██║     ██║   ██║██╔══██╗╚════██║██╔══╝  ╚════██║
-██║ ╚████║╚██████╗╚██████╔╝██║  ██║███████║███████╗███████║
-╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
-      </pre>
-    </td>
-  </tr>
-</table>
+<br>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Ncurses-Terminal%20UI-222222?style=flat-square&logo=gnubash&logoColor=white" alt="Ncurses">
+  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" alt="In development">
+</div>
 
 I'm currently developing a game in **C**, using mainly the **Ncurses library** to create a text-based interface directly in the terminal.
 
