@@ -22,7 +22,7 @@ I'm currently in my **second semester**. I'm interested in learning more about c
 Most of my current studies involve projects in **C**, including algorithms for recognizing strongly chordal graphs and a game that started as an assignment for my Structured Programming classes. I'm also beginning to explore MIPS architecture.
 
 <details>
-<summary style="background-color: #1f6feb; color: #ffffff; padding: 8px 12px; border-radius: 6px; font-weight: bold; cursor: pointer;">><b>click info about me</b></summary>
+<summary><kbd><b>click info about me</b></kbd></summary>
 
 - Computer Science student at UFRRJ.
 - Currently in the 2nd semester.
@@ -34,7 +34,7 @@ Most of my current studies involve projects in **C**, including algorithms for r
 </details>
 
 <details>
-<summary style="background-color: #1f6feb; color: #ffffff; padding: 8px 12px; border-radius: 6px; font-weight: bold; cursor: pointer;">><b>click - Fastfetch me!</b></summary>
+<summary><kbd><b>click - Fastfetch me!</b></kbd></summary>
 
 <br>
 
@@ -78,10 +78,10 @@ Most of my current studies involve projects in **C**, including algorithms for r
 
 I'm currently developing a game in **C**, using mainly the **Ncurses** library to create a text-based interface directly in the terminal.
 <details>
-  <summary style="background-color: #1f6feb; color: #ffffff; padding: 8px 12px; border-radius: 6px; font-weight: bold; cursor: pointer;">><b>click - Game info and pictures</b></summary>
+  <summary><kbd><b>click - Game info and pictures</b></kbd></summary>
   <img width="1396" height="678" alt="Captura de tela de 2026-11-02 16-08-54" src="https://github.com/user-attachments/assets/a2494cf0-74d7-46cb-b336-68a43acb8039" />
 <img width="875" height="879" alt="Captura de tela de 2026-11-02 16-12-27" src="https://github.com/user-attachments/assets/fe89d561-c332-4913-983c-4818f770309c" />
-<img width="875" height="879" alt="Captura de tela de 2026-11-02 16-11-44" src="https://github.com/user-attachments/assets/2c985d23-056e-4b58-a825-47fddfc407ef" />
+<img width="875" height="879" alt="Captura de tela de 2026-11-02 16-11-44" src="https://github.com/user-attachm>click - Fastfetch me!ents/assets/2c985d23-056e-4b58-a825-47fddfc407ef" />
 <img width="875" height="879" alt="Captura de tela de 2026-11-02 16-11-15" src="https://github.com/user-attachments/assets/79afab3e-f58c-46c8-9b7f-746b32b1a12c" />
 <img width="1340" height="622" alt="Captura de tela de 2026-11-02 16-10-42" src="https://github.com/user-attachments/assets/bad9ac8d-861b-4cbd-a23d-c3b3fca8b136" />
 <img width="1340" height="622" alt="Captura de tela de 2026-11-02 16-09-58" src="https://github.com/user-attachments/assets/708c072e-a639-4c4f-b00a-8c397728d2c0" />
@@ -121,7 +121,7 @@ This project involves studying graph representations and applying data structure
 **Repository:** [Strongly Chordal Graphs Library](https://github.com/kaikea1meida/Grafo.h)
 
 <details>
-<summary style="background-color: #1f6feb; color: #ffffff; padding: 8px 12px; border-radius: 6px; font-weight: bold; cursor: pointer;">><b>click - What is the project about?</b></summary>
+<summary><kbd><b>click - What is the project about?</b></kbd></summary>
 
 ## Strongly Chordal Graph Recognition
 
