@@ -6,7 +6,7 @@ d = ImageDraw.Draw(img)
 
 try:
     font_ascii = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf", 6)
-    font_text = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf", 11)
+    font_text = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf", 15)
 except:
     font_ascii = ImageFont.load_default()   
     font_text = ImageFont.load_default()
