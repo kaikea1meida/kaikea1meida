@@ -41,7 +41,7 @@ Most of my current studies involve projects in **C**, including algorithms for r
 <br>
 
 <p align="center">
-  <img src="./eueu-avatar.png?v=2" alt="Avatar ASCII" width="100%">
+  <img src="./.assets/eueu-avatar.png?v=2" alt="Avatar ASCII" width="100%">
 </p>
 
 <br>
@@ -73,12 +73,12 @@ Most of my current studies involve projects in **C**, including algorithms for r
 
 ### Terminal Game — C + Ncurses
 <div align="center">
-  <img src="./ncurses-banner.svg" alt="C + Ncurses">
+  <img src="./.assets/ncurses-banner.svg" alt="C + Ncurses">
 </div>
 
 I'm currently developing a game in **C**, using mainly the **Ncurses** library to create a text-based interface directly in the terminal.
 
-  <img src="./animacao_jogo.gif" alt="Animação do Jogo em ASCII" width="450">
+  <img src="./.assets/animacao_jogo.gif" alt="Animação do Jogo em ASCII" width="450">
 
 <details>
   <summary><h3><kbd><b>&nbsp;click - Game info and pictures&nbsp;</b></kbd></h3></summary>
@@ -116,7 +116,7 @@ Another project I'm working on is a library related to **strongly chordal graphs
 This project involves studying graph representations and applying data structures to work with graph-related problems.
 
 <div align="center">
-  <img src="./Matriz_Schordals.gif" alt="Adjacency Matrix - Strongly Chordal Graphs" width="650">
+  <img src="./.assets/Matriz_Schordals.gif" alt="Adjacency Matrix - Strongly Chordal Graphs" width="650">
 </div>
 <br>
 
