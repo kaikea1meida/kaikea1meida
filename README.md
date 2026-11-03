@@ -148,6 +148,8 @@ A graph G is strongly chordal if and only if its vertex-clique incidence graph H
 How we build it:
 
 1. Run a Perfect Elimination Ordering (PEO) on G, so that we are sure that it is cordal at least, because looking for cliques in a non cordal graph may be NP-complete.
+   <img width="670" height="334" alt="Matriz_Schordals" src="https://github.com/user-attachments/assets/d6d8712c-2199-49df-bd4f-07b7fe6ef4ca" />
+
 <details>
 <summary><kbd><sub><b>&nbsp;about the gif&nbsp;</b></sub></kbd></summary>
   ##### *this image is not from our project but it represents almost exactly what we are doing here, it is from: https://oxfordcontrol.github.io/COSMO.jl/stable/decomposition/*
