@@ -38,9 +38,6 @@ o que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritm
 
 </details>
 
-<details>
-<summary><h3><kbd><b>&nbsp;clique - Fastfetch me!&nbsp;</b></kbd></h3></summary>
-
 <br>
 
 <p align="center">
@@ -48,7 +45,7 @@ o que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritm
 </p>
 <br>
 
-</details>
+
 
 ---
 
