@@ -77,6 +77,9 @@ Most of my current studies involve projects in **C**, including algorithms for r
 </div>
 
 I'm currently developing a game in **C**, using mainly the **Ncurses** library to create a text-based interface directly in the terminal.
+
+  <img src="./animacao_jogo.gif" alt="Animação do Jogo em ASCII" width="450">
+
 <details>
   <summary><h3><kbd><b>&nbsp;click - Game info and pictures&nbsp;</b></kbd></h3></summary>
   <img width="1396" height="678" alt="Captura de tela de 2026-11-02 16-08-54" src="https://github.com/user-attachments/assets/a2494cf0-74d7-46cb-b336-68a43acb8039" />
