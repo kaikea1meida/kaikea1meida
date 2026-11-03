@@ -131,6 +131,11 @@ Este projeto envolve o estudo de representações de grafos e a aplicação de e
 
 **Repositório:** [Biblioteca de Grafos Fortemente Cordais](https://github.com/kaikea1meida/Grafo.h)
 
+<p align="center">
+  <img width="45%" alt="Captura de tela 2" src="https://github.com/user-attachments/assets/b3cd959c-5fb1-4663-a089-65bdd0a92136" />
+  <img width="45%" alt="Captura de tela 1" src="https://github.com/user-attachments/assets/ca90116f-2851-41be-aec0-56d6665bdb70" />
+</p>
+
 <details>
 <summary><h3><kbd><b>&nbsp;clique - Sobre o que é o projeto?&nbsp;</b></kbd></h3></summary>
 
