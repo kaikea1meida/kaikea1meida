@@ -150,6 +150,8 @@ Um grafo G é fortemente cordal se, e somente se, o seu grafo de incidência vé
 Como construímos:
 
 1. Executar uma Ordem de Eliminação Perfeita (OEP) em G, para termos certeza de que é pelo menos cordal, pois procurar cliques em um grafo não cordal pode ser NP-completo.
+   <img width="670" height="334" alt="Matriz_Schordals" src="https://github.com/user-attachments/assets/906a2a95-3e6d-4dd3-a488-77381e785fc2" />
+
 <details>
 <summary><kbd><sub><b>&nbsp;sobre o gif&nbsp;</b></sub></kbd></summary>
   ##### *esta imagem não é do nosso projeto, mas representa quase exatamente o que estamos fazendo aqui, ela é de: https://oxfordcontrol.github.io/COSMO.jl/stable/decomposition/*
