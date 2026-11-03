@@ -44,9 +44,8 @@ o que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritm
 <br>
 
 <p align="center">
-  <img src="./eueu-avatar.png" alt="Avatar ASCII" width="750">
+  <img src="./eueu-avatar.png?v=2" alt="Avatar ASCII" width="100%">
 </p>
-
 <br>
 
 </details>
