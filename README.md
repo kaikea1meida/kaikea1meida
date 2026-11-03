@@ -46,6 +46,12 @@ Most of my current studies involve projects in **C**, including algorithms for r
 
 <br>
 
+<p align="center">
+  <a href="https://github.com/kaikea1meida">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikea1meida&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
 ---
 
 ## `02.` Technologies & Knowledge
@@ -134,7 +140,7 @@ This project involves studying graph representations and applying data structure
 </p>
 
 <details>
-<summary><h1><kbd><b>&nbsp;click - What is the project about?&nbsp;</b></kbd></h1></summary>
+<summary><h3><kbd><b>&nbsp;click - What is the project about?&nbsp;</b></kbd></h3></summary>
 
 ## Strongly Chordal Graph Recognition
 
@@ -156,9 +162,6 @@ A graph G is strongly chordal if and only if its vertex-clique incidence graph H
 How we build it:
 
 1. Run a Perfect Elimination Ordering (PEO) on G, so that we are sure that it is cordal at least, because looking for cliques in a non cordal graph may be NP-complete.
-   
-   <img width="670" height="334" alt="Matriz_Schordals" src="https://github.com/user-attachments/assets/d6d8712c-2199-49df-bd4f-07b7fe6ef4ca" />
-
 <details>
 <summary><kbd><sub><b>&nbsp;about the gif&nbsp;</b></sub></kbd></summary>
   ##### *this image is not from our project but it represents almost exactly what we are doing here, it is from: https://oxfordcontrol.github.io/COSMO.jl/stable/decomposition/*
