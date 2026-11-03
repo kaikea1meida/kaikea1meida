@@ -14,6 +14,8 @@
 [![University](https://img.shields.io/badge/UFRRJ-Computer%20Science-2e8b57?style=for-the-badge)](https://portal.ufrrj.br/)
 [![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
 
+</div>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kaikea1meida&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikea1meida&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
