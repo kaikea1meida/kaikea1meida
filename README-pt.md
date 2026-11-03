@@ -78,6 +78,11 @@ o que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritm
 </div>
 
 Atualmente estou desenvolvendo um jogo em **C**, usando principalmente a biblioteca **Ncurses** para criar uma interface baseada em texto diretamente no terminal.
+
+
+  <img src="./animacao_jogo.gif" alt="Animação do Jogo em ASCII" width="450">
+
+
 <details>
   <summary><h3><kbd><b>&nbsp;clique - Info e imagens do jogo&nbsp;</b></kbd></h3></summary>
   <img width="1396" height="678" alt="Captura de tela de 2026-11-02 16-08-54" src="https://github.com/user-attachments/assets/a2494cf0-74d7-46cb-b336-68a43acb8039" />
