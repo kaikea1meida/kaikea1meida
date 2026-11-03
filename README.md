@@ -22,9 +22,9 @@
 
 Hi!! I'm **Kaike**, a Computer Science undergraduate student at **Universidade Federal Rural do Rio de Janeiro (UFRRJ - Instituto Multidisciplinar)**.
 
-I'm currently in my **second semester**. I'm interested in learning more about computer architecture, graph theory and data structures, as well as understanding how they work and how they can be used to improve my problem-solving skills.
+I'm currently in my **second semester**. I'm interested in learning more about computer architecture, graph theory and data structures, to understand how they work, how they interconnect, and how they can be used to improve my problem-solving efficiency.
 
-Most of my current studies involve projects in **C**, including algorithms for recognizing strongly chordal graphs and a game that started as an assignment for my Structured Programming classes. I'm also beginning to explore MIPS architecture.
+Most of my current studies involve projects in **C**, including algorithms for recognizing Strongly Chordal Graphs and a game that started as an assignment for my Structured Programming classes. I'm also starting to explore MIPS architecture out of curiosity, not too deeply.
 
 <details>
 <summary><h3><kbd><b>&nbsp;click info about me&nbsp;</b></kbd></h3></summary>
@@ -33,7 +33,7 @@ Most of my current studies involve projects in **C**, including algorithms for r
 - Currently in the 2nd semester.
 - Learning and developing projects in C.
 - Interested in data structures, algorithms and graph theory.
-- Languages: Portuguese (Brazilian) and English.
+- Languages: Portuguese (Native) and English.
 - Linux user.
 
 </details>
@@ -106,9 +106,9 @@ The project started as an opportunity during my first semester to explore termin
   <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" alt="In development">
 </div>
 
-**Documentation:** I'm also writing my own README explaining the basic concepts of Ncurses, its main functions and how to get started with the library.
+**Documentation:** I'm also writing my own README explaining the basic concepts of Ncurses, its main functions and how to get started with the library, since I acquired good knowledge while building the game.
 
-About Ncurses and the in development game!
+About Ncurses and the game in development!
 
 ### **Ncurses.md:** **[Ncurses — Basic Concepts and Introduction](https://github.com/kaikeaes/while_playing_not_studying-OO-/blob/main/explicancurses.md)**
 
@@ -146,7 +146,8 @@ This project involves studying graph representations and applying data structure
 
 This project recognizes whether a graph G is strongly chordal by reducing the problem to checking if its auxiliary vertex-clique graph H(G) is chordal bipartite.
 
-We are also visualizing the graphs  trough adjacency matrices, only looking at one triangle ( superior or inferior depending on the necessity)
+We are also visualizing the graphs through adjacency matrices, looking only at one triangle (upper or lower, depending on the necessity).
+
 ### Theoretical idea
 
 A graph G is strongly chordal if and only if its vertex-clique incidence graph H(G) is chordal bipartite.
@@ -161,10 +162,10 @@ A graph G is strongly chordal if and only if its vertex-clique incidence graph H
 
 How we build it:
 
-1. Run a Perfect Elimination Ordering (PEO) on G, so that we are sure that it is cordal at least, because looking for cliques in a non cordal graph may be NP-complete.
+1. Run a Perfect Elimination Ordering (PEO) on G, to be sure that it is chordal at least, because looking for cliques in a non-chordal graph may be NP-complete.
 <details>
 <summary><kbd><sub><b>&nbsp;about the gif&nbsp;</b></sub></kbd></summary>
-  ##### *this image is not from our project but it represents almost exactly what we are doing here, it is from: https://oxfordcontrol.github.io/COSMO.jl/stable/decomposition/*
+  ##### *this image is not from our project, but it represents almost exactly what we are doing here, it is from: https://oxfordcontrol.github.io/COSMO.jl/stable/decomposition/*
 </details>
 2. For each vertex in the PEO, take its remaining closed neighborhood.
 3. Check if that neighborhood is already contained in an existing clique in Y. If it's not, add a new clique node to Y and link it to all vertices in that neighborhood.
