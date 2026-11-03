@@ -59,12 +59,9 @@ o que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritm
 
 ### Linguagens e ferramentas
 
-<img src="https://skillicons.dev/icons?i=c,linux,git,github" alt="C, Linux, Git and GitHub icons">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apikaikea1meida=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-<br><br>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=kaikea1meida&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikea1meida&layout=donut&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+Copy code to clipboard
 
 </div>
 ---
