@@ -63,12 +63,10 @@ o que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritm
 
 <br><br>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kaikea1meida&show_icons=true&theme=tokyonight&hide_border=true&v=1)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikea1meida&layout=compact&theme=tokyonight&hide_border=true&v=1)
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=kaikea1meida&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikea1meida&layout=donut&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 
 </div>
-
 ---
 
 ## `03.` Trabalhando atualmente em
