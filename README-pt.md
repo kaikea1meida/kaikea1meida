@@ -52,6 +52,7 @@ o que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritm
 </details>
 
 ---
+
 ## `02.` Tecnologias e Conhecimentos
 
 <div align="center">
@@ -60,12 +61,17 @@ o que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritm
 
 <img src="https://skillicons.dev/icons?i=c,linux,git,github" alt="C, Linux, Git and GitHub icons">
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=kaikea1meida&show_icons=true&theme=tokyonight&hide_border=true&v=novo" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaikea1meida&layout=donut&theme=tokyonight&hide_border=true&v=novo" height="150" />
-
 </div>
+
+| Área | Conhecimento |
+|:---|:---|
+| Linguagem de programação | C |
+| Estruturas de dados | Conceitos básicos e implementação |
+| Teoria dos grafos | Grafos cordais e algoritmos |
+| Sistema operacional | Linux |
+| Controle de versão | Git e GitHub |
+| Idiomas | Português e Inglês |
+
 ---
 
 ## `03.` Trabalhando atualmente em
