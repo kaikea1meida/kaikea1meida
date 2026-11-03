@@ -52,7 +52,6 @@ o que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritm
 </details>
 
 ---
-
 ## `02.` Tecnologias e Conhecimentos
 
 <div align="center">
@@ -63,8 +62,8 @@ o que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritm
 
 <br><br>
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kaikea1meida&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/kaikea1meida)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=kaikea1meida&layout=donut&theme=tokyonight&hide_border=true)](https://github.com/kaikea1meida)
+<img src="https://github-readme-stats.vercel.app/api?username=kaikea1meida&show_icons=true&theme=tokyonight&hide_border=true&v=novo" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaikea1meida&layout=donut&theme=tokyonight&hide_border=true&v=novo" height="150" />
 
 </div>
 ---
