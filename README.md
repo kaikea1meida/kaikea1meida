@@ -128,6 +128,11 @@ This project involves studying graph representations and applying data structure
 
 **Repository:** [Strongly Chordal Graphs Library](https://github.com/kaikea1meida/Grafo.h)
 
+<p align="center">
+  <img width="45%" alt="Captura de tela 2" src="https://github.com/user-attachments/assets/b3cd959c-5fb1-4663-a089-65bdd0a92136" />
+  <img width="45%" alt="Captura de tela 1" src="https://github.com/user-attachments/assets/ca90116f-2851-41be-aec0-56d6665bdb70" />
+</p>
+
 <details>
 <summary><h1><kbd><b>&nbsp;click - What is the project about?&nbsp;</b></kbd></h1></summary>
 
