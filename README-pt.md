@@ -15,12 +15,6 @@
 [![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
 
 </div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kaikea1meida&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikea1meida&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
 
 ---
 
@@ -69,14 +63,13 @@ o que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritm
 
 </div>
 
-| Área | Conhecimento |
-|:---|:---|
-| Linguagem de programação | C |
-| Estruturas de dados | Conceitos básicos e implementação |
-| Teoria dos grafos | Grafos cordais e algoritmos |
-| Sistema operacional | Linux |
-| Controle de versão | Git e GitHub |
-| Idiomas | Português e Inglês |
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kaikea1meida&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikea1meida&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
 
 ---
 
