@@ -41,7 +41,7 @@ o que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritm
 <br>
 
 <p align="center">
-  <img src="./eueu-avatar.png?v=2" alt="Avatar ASCII" width="200%">
+  <img src="./.assets/eueu-avatar.png?v=2" alt="Avatar ASCII" width="200%">
 </p>
 <br>
 
@@ -74,13 +74,13 @@ o que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritm
 
 ### Jogo no Terminal — C + Ncurses
 <div align="center">
-  <img src="./ncurses-banner.svg" alt="C + Ncurses">
+  <img src="./.assets/ncurses-banner.svg" alt="C + Ncurses">
 </div>
 
 Atualmente estou desenvolvendo um jogo em **C**, usando principalmente a biblioteca **Ncurses** para criar uma interface baseada em texto diretamente no terminal.
 
 
-  <img src="./animacao_jogo.gif" alt="Animação do Jogo em ASCII" width="450">
+  <img src="./.assets/animacao_jogo.gif" alt="Animação do Jogo em ASCII" width="450">
 
 
 <details>
@@ -119,7 +119,7 @@ Outro projeto no qual estou trabalhando é uma biblioteca relacionada a **grafos
 Este projeto envolve o estudo de representações de grafos e a aplicação de estruturas de dados para trabalhar com problemas relacionados a grafos.
 
 <div align="center">
-  <img src="./Matriz_Schordals.gif" alt="Matriz de Adjacência - Grafos Fortemente Cordais" width="650">
+  <img src="./.assets/Matriz_Schordals.gif" alt="Matriz de Adjacência - Grafos Fortemente Cordais" width="650">
 </div>
 <br>
 
