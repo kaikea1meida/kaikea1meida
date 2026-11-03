@@ -38,18 +38,13 @@ Most of my current studies involve projects in **C**, including algorithms for r
 
 </details>
 
-<details>
-<summary><h3><kbd><b>&nbsp;click - Fastfetch me!&nbsp;</b></kbd></h3></summary>
-
 <br>
 
 <p align="center">
-  <img src="./eueu-avatar.png" alt="Avatar ASCII" width="750">
+  <img src="./eueu-avatar.png?v=2" alt="Avatar ASCII" width="100%">
 </p>
 
 <br>
-
-</details>
 
 ---
 
