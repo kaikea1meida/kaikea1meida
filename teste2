@@ -8,7 +8,7 @@ from PIL import Image, ImageDraw, ImageFont
 # CANVAS_WIDTH: A largura total do seu arquivo PNG.
 # O que mudar: Como vamos empurrar o texto muito para a direita para não sobrepor, 
 # precisamos de uma imagem bem larga. Se o texto da direita cortar, aumente aqui (ex: 2800).
-CANVAS_WIDTH = 2600
+CANVAS_WIDTH = 2800
 
 # CANVAS_HEIGHT: A altura total do seu arquivo PNG.
 # O que mudar: Se você aumentar muito o espaçamento das linhas e a foto cortar embaixo, aumente aqui.
@@ -20,7 +20,7 @@ CANVAS_HEIGHT = 2000
 
 # ASCII_START_X: A borda esquerda da sua foto (o quão para a esquerda ela fica).
 # O que mudar: Para colar a foto totalmente na esquerda, deixe um valor baixo (ex: 10 ou 0).
-ASCII_START_X = 10
+ASCII_START_X = 0
 
 # ASCII_START_Y: A borda superior da sua foto (espaço no topo).
 ASCII_START_Y = 20
@@ -29,7 +29,7 @@ ASCII_START_Y = 20
 # O QUE MUDAR PARA DESACHATAR: Esse é o "pulo do gato". Fontes de terminal são retangulares.
 # Se o seu rosto continua achatado (largo e curto), AUMENTE esse valor (ex: tente 15, 17, 20).
 # Se o rosto ficar alongado/esticado demais, diminua esse valor.
-LINE_SPACING = 15
+LINE_SPACING = 20
 
 # =====================================================================
 # 3. PARÂMETROS DO TEXTO LATERAL (FASTFETCH)
