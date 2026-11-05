@@ -12,7 +12,7 @@ CANVAS_WIDTH = 2800
 
 # CANVAS_HEIGHT: A altura total do seu arquivo PNG.
 # O que mudar: Se você aumentar muito o espaçamento das linhas e a foto cortar embaixo, aumente aqui.
-CANVAS_HEIGHT = 2000
+CANVAS_HEIGHT = 2800
 
 # =====================================================================
 # 2. PARÂMETROS DA FOTO (ARTE ASCII)
