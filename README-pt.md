@@ -1,15 +1,17 @@
 <div align="right">
   <a href="README.md">English</a> | <a href="README-pt.md">Português</a>
 </div>
-
 <div align="center">
 
-# Ooooii!!!
+# ----Kaike Almeida do Espirito Santo----
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=15&color=8ACF31&duration=20&pause=2980&multiline=true&repeat=true&width=150&height=110&v=4&lines=kaike%40desktop-kaike%3A;kaike%40desktop-kaike%3A;kaike%40desktop-kaike%3A;kaike%40desktop-kaike%3A" alt="Host" valign="top" /><!--
+  --><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=15&color=4EA8DE&duration=20&pause=2980&multiline=true&repeat=true&width=225&height=110&v=4&lines=~%2FKaike-readme%2Fkaikea1meida%24;~%2FKaike-readme%2Fkaikea1meida%24;~%2FKaike-readme%2Fkaikea1meida%24;~%2FKaike-readme%2Fkaikea1meida%24" alt="Caminho" valign="top" /><!--
+  --><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=15&color=DCFF00&duration=2000&pause=1000&multiline=true&repeat=true&width=340&height=110&v=4&lines=Oi!;Meu+nome+%C3%A9+Kaike!!!;Prazer!;Esse+%C3%89+o+meu+Readme%2C+espero+que+goste!" alt="Texto" valign="top" />
+</div>
 
-## 'Kaike Almeida'
-
-**Estudante de Ciência da Computação | Desenvolvedor C | Grafos e Estruturas de Dados**
+**Estudante de Ciência da Computação | Desenvolvedor C | Estudando Grafos, Estruturas de Dados e Arquitetura**
 
 [![University](https://img.shields.io/badge/UFRRJ-Computer%20Science-2e8b57?style=for-the-badge)](https://portal.ufrrj.br/)
 [![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
