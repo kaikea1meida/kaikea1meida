@@ -1,4 +1,4 @@
-<img width="1059" height="865" alt="jogoprova" src="https://github.com/user-attachments/assets/59ab9f81-c906-4a80-8f12-9eee94b45b13" /><div align="right">
+<div align="right">
   <a href="README.md">English</a> | <a href="README-pt.md">Português</a>
 </div>
 
