@@ -1,8 +1,8 @@
 python3 -c '
 from PIL import Image, ImageDraw, ImageFont
 
-# Canvas mais alto (1600) para acomodar o espaçamento correto das 129 linhas
-img = Image.new("RGBA", (1900, 1600), (13, 17, 23, 255))
+# Ecrã (canvas) ainda mais alto (2100) para acomodar o espaçamento de 16px
+img = Image.new("RGBA", (1900, 2100), (13, 17, 23, 255))
 d = ImageDraw.Draw(img)
 
 try:
@@ -125,41 +125,39 @@ ascii_art_lines = [
 ]
 
 y = 12
-# Espaçamento vertical aumentado (12) para corrigir a proporção "achatada" e deixar mais circular
+# Espaçamento vertical ainda maior (16) para corrigir totalmente o achatamento da imagem ASCII
 for line in ascii_art_lines:
     d.text((12, y), line, fill="#c9d1d9", font=font_ascii)
-    y += 12
+    y += 16
 
-# Painel de texto movido para y=600 para ficar centrado na nova altura da imagem
-d.text((1350, 600), "kaike@ufrrj-pc", fill="#e06c75", font=font_text)
-d.text((1350, 626), "---------------------------------------------------", fill="#5c6370", font=font_text)
-d.text((1350, 656), "OS:", fill="#98c379", font=font_text)
-d.text((1430, 656), "Ubuntu Linux (x86_64)", fill="#c9d1d9", font=font_text)
-d.text((1350, 683), "Host:", fill="#98c379", font=font_text)
-d.text((1430, 683), "Custom Desktop Rig", fill="#c9d1d9", font=font_text)
-d.text((1350, 710), "Uptime:", fill="#98c379", font=font_text)
-d.text((1430, 710), "2nd Semester (2026)", fill="#c9d1d9", font=font_text)
-d.text((1350, 737), "Institution:", fill="#98c379", font=font_text)
-d.text((1480, 737), "UFRRJ (IM)", fill="#c9d1d9", font=font_text)
-d.text((1350, 764), "Degree:", fill="#98c379", font=font_text)
-d.text((1430, 764), "Computer Science", fill="#c9d1d9", font=font_text)
-d.text((1350, 791), "Language:", fill="#98c379", font=font_text)
-d.text((1460, 791), "C (Primary)", fill="#c9d1d9", font=font_text)
-d.text((1350, 818), "Interests:", fill="#98c379", font=font_text)
-d.text((1460, 818), "Graphs & Data Structs. & Comp. Arch.", fill="#c9d1d9", font=font_text)
-d.text((1350, 845), "Editor:", fill="#98c379", font=font_text)
-d.text((1430, 845), "VS Code / Terminal", fill="#c9d1d9", font=font_text)
-d.text((1350, 872), "Git:", fill="#98c379", font=font_text)
-d.text((1400, 872), "Git & GitHub", fill="#c9d1d9", font=font_text)
-d.text((1350, 899), "---------------------------------------------------", fill="#5c6370", font=font_text)
-d.text((1350, 928), "Contact:", fill="#e5c07b", font=font_text)
-d.text((1350, 955), "GitHub:", fill="#98c379", font=font_text)
-d.text((1430, 955), "@kaikea1meida || kaikeaes@gmail.com", fill="#c9d1d9", font=font_text)
-d.text((1350, 982), "Status:", fill="#98c379", font=font_text)
-d.text((1430, 982), "Building C Games and Chordal project", fill="#c9d1d9", font=font_text)
+# Painel de texto movido proporcionalmente mais para baixo (y base=850)
+d.text((1350, 850), "kaike@ufrrj-pc", fill="#e06c75", font=font_text)
+d.text((1350, 876), "---------------------------------------------------", fill="#5c6370", font=font_text)
+d.text((1350, 906), "OS:", fill="#98c379", font=font_text)
+d.text((1430, 906), "Ubuntu Linux (x86_64)", fill="#c9d1d9", font=font_text)
+d.text((1350, 933), "Host:", fill="#98c379", font=font_text)
+d.text((1430, 933), "Custom Desktop Rig", fill="#c9d1d9", font=font_text)
+d.text((1350, 960), "Uptime:", fill="#98c379", font=font_text)
+d.text((1430, 960), "2nd Semester (2026)", fill="#c9d1d9", font=font_text)
+d.text((1350, 987), "Institution:", fill="#98c379", font=font_text)
+d.text((1480, 987), "UFRRJ (IM)", fill="#c9d1d9", font=font_text)
+d.text((1350, 1014), "Degree:", fill="#98c379", font=font_text)
+d.text((1430, 1014), "Computer Science", fill="#c9d1d9", font=font_text)
+d.text((1350, 1041), "Language:", fill="#98c379", font=font_text)
+d.text((1460, 1041), "C (Primary)", fill="#c9d1d9", font=font_text)
+d.text((1350, 1068), "Interests:", fill="#98c379", font=font_text)
+d.text((1460, 1068), "Graphs & Data Structs. & Comp. Arch.", fill="#c9d1d9", font=font_text)
+d.text((1350, 1095), "Editor:", fill="#98c379", font=font_text)
+d.text((1430, 1095), "VS Code / Terminal", fill="#c9d1d9", font=font_text)
+d.text((1350, 1122), "Git:", fill="#98c379", font=font_text)
+d.text((1400, 1122), "Git & GitHub", fill="#c9d1d9", font=font_text)
+d.text((1350, 1149), "---------------------------------------------------", fill="#5c6370", font=font_text)
+d.text((1350, 1178), "Contact:", fill="#e5c07b", font=font_text)
+d.text((1350, 1205), "GitHub:", fill="#98c379", font=font_text)
+d.text((1430, 1205), "@kaikea1meida || kaikeaes@gmail.com", fill="#c9d1d9", font=font_text)
+d.text((1350, 1232), "Status:", fill="#98c379", font=font_text)
+d.text((1430, 1232), "Building C Games and Chordal project", fill="#c9d1d9", font=font_text)
 
 img.save("eueu-avatar.png")
-print("PNG gerado com proporções corrigidas (mais circular)!")
+print("PNG gerado com proporções finais desachatadas!")
 '
-
-#git pull --rebase
