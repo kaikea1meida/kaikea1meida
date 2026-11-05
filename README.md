@@ -7,9 +7,9 @@
 # ----Kaike Almeida do Espirito Santo----
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=15&color=8ACF31&duration=20&pause=2980&multiline=true&repeat=true&width=150&height=110&v=4&lines=kaike%40desktop-kaike%3A;kaike%40desktop-kaike%3A;kaike%40desktop-kaike%3A;kaike%40desktop-kaike%3A" alt="Host" valign="top" /><!--
-  --><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=15&color=4EA8DE&duration=20&pause=2980&multiline=true&repeat=true&width=225&height=110&v=4&lines=~%2FKaike-readme%2Fkaikea1meida%24;~%2FKaike-readme%2Fkaikea1meida%24;~%2FKaike-readme%2Fkaikea1meida%24;~%2FKaike-readme%2Fkaikea1meida%24" alt="Caminho" valign="top" /><!--
-  --><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=15&color=DCFF00&duration=2000&pause=1000&multiline=true&repeat=true&width=340&height=110&v=4&lines=Oi!;Meu+nome+%C3%A9+Kaike!!!;Prazer!;Esse+%C3%89+o+meu+Readme%2C+espero+que+goste!" alt="Texto" valign="top" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=15&color=8ACF31&duration=20&pause=2980&multiline=true&repeat=true&width=150&height=110&v=5&lines=kaike%40desktop-kaike%3A;kaike%40desktop-kaike%3A;kaike%40desktop-kaike%3A;kaike%40desktop-kaike%3A" alt="Host" valign="top" /><!--
+  --><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=15&color=4EA8DE&duration=20&pause=2980&multiline=true&repeat=true&width=225&height=110&v=5&lines=~%2FKaike-readme%2Fkaikea1meida%24;~%2FKaike-readme%2Fkaikea1meida%24;~%2FKaike-readme%2Fkaikea1meida%24;~%2FKaike-readme%2Fkaikea1meida%24" alt="Caminho" valign="top" /><!--
+  --><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=15&color=DCFF00&duration=2000&pause=1000&multiline=true&repeat=true&width=380&height=110&v=5&lines=Hi+there!;I%27m+Ka%C3%ADke!!!;It%27s+a+pleasure+to+meet+you!;Thats+my+readme%2C+I+hope+you+like+it." alt="Texto" valign="top" />
 </div>
 
 **Computer Science Student | C Developer | Graphs & Data Structures**
