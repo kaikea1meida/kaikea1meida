@@ -161,3 +161,6 @@ d.text((1430, 632), "Building C Games and Chordal project", fill="#c9d1d9", font
 img.save("eueu-avatar.png")
 print("PNG atualizado com a foto nova inserida com sucesso!")
 '
+
+
+#git pull --rebase
