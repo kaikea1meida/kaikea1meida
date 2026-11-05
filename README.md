@@ -6,6 +6,16 @@
 
 # Ooooii!!!
 
+<div align="center">
+  <!-- 1. Prompt do Terminal (Popa instantaneamente linha por linha) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=15&color=8ACF31&duration=1&pause=2000&multiline=true&repeat=false&width=390&height=110&lines=kaike%40desktop-kaike%3A~%2FKaike-readme%2Fkaikea1meida%24;kaike%40desktop-kaike%3A~%2FKaike-readme%2Fkaikea1meida%24;kaike%40desktop-kaike%3A~%2FKaike-readme%2Fkaikea1meida%24;kaike%40desktop-kaike%3A~%2FKaike-readme%2Fkaikea1meida%24" alt="Prompt" valign="top" />
+
+  <!-- 2. Texto Animado (Efeito de digitação normal) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=15&color=F8F9FA&duration=2000&pause=1000&multiline=true&repeat=false&width=330&height=110&lines=Oi!;Meu+nome+%C3%A9+Kaike!!!;Prazer!;Esse+%C3%89+o+meu+Readme%2C+espero+que+goste!" alt="Mensagem" valign="top" />
+</div>
+
+
+
 
 ## 'Kaike Almeida'
 
