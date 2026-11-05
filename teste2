@@ -1,8 +1,55 @@
 python3 -c '
 from PIL import Image, ImageDraw, ImageFont
 
-# Ecrã (canvas) ainda mais alto (2100) para acomodar o espaçamento de 16px
-img = Image.new("RGBA", (1900, 2100), (13, 17, 23, 255))
+# =====================================================================
+# 1. PARÂMETROS DO ECRÃ (CANVAS)
+# =====================================================================
+
+# CANVAS_WIDTH: A largura total do seu arquivo PNG.
+# O que mudar: Como vamos empurrar o texto muito para a direita para não sobrepor, 
+# precisamos de uma imagem bem larga. Se o texto da direita cortar, aumente aqui (ex: 2800).
+CANVAS_WIDTH = 2600
+
+# CANVAS_HEIGHT: A altura total do seu arquivo PNG.
+# O que mudar: Se você aumentar muito o espaçamento das linhas e a foto cortar embaixo, aumente aqui.
+CANVAS_HEIGHT = 2000
+
+# =====================================================================
+# 2. PARÂMETROS DA FOTO (ARTE ASCII)
+# =====================================================================
+
+# ASCII_START_X: A borda esquerda da sua foto (o quão para a esquerda ela fica).
+# O que mudar: Para colar a foto totalmente na esquerda, deixe um valor baixo (ex: 10 ou 0).
+ASCII_START_X = 10
+
+# ASCII_START_Y: A borda superior da sua foto (espaço no topo).
+ASCII_START_Y = 20
+
+# LINE_SPACING: O espaçamento vertical entre cada linha de caracteres.
+# O QUE MUDAR PARA DESACHATAR: Esse é o "pulo do gato". Fontes de terminal são retangulares.
+# Se o seu rosto continua achatado (largo e curto), AUMENTE esse valor (ex: tente 15, 17, 20).
+# Se o rosto ficar alongado/esticado demais, diminua esse valor.
+LINE_SPACING = 15
+
+# =====================================================================
+# 3. PARÂMETROS DO TEXTO LATERAL (FASTFETCH)
+# =====================================================================
+
+# TEXT_START_X: A posição horizontal onde o texto lateral vai começar.
+# O QUE MUDAR PARA PARAR DE SOBREPOR: A sua arte ASCII tem muitos caracteres de largura.
+# Para o texto não ficar em cima do seu rosto, precisamos empurrá-lo lá para a direita.
+# Se continuar sobrepondo, aumente esse valor (ex: 1700, 1800).
+TEXT_START_X = 1600
+
+# TEXT_START_Y: A posição vertical onde o texto começa (para alinhar com o rosto).
+# O que mudar: Aumente para empurrar o texto mais para baixo, diminua para subir.
+TEXT_START_Y = 700
+
+# =====================================================================
+# GERADOR DA IMAGEM
+# =====================================================================
+
+img = Image.new("RGBA", (CANVAS_WIDTH, CANVAS_HEIGHT), (13, 17, 23, 255))
 d = ImageDraw.Draw(img)
 
 try:
@@ -124,40 +171,53 @@ ascii_art_lines = [
     "                                                                               .   ................................ .     ..     .                      "
 ]
 
-y = 12
-# Espaçamento vertical ainda maior (16) para corrigir totalmente o achatamento da imagem ASCII
+y_current = ASCII_START_Y
 for line in ascii_art_lines:
-    d.text((12, y), line, fill="#c9d1d9", font=font_ascii)
-    y += 16
+    d.text((ASCII_START_X, y_current), line, fill="#c9d1d9", font=font_ascii)
+    y_current += LINE_SPACING
 
-# Painel de texto movido proporcionalmente mais para baixo (y base=850)
-d.text((1350, 850), "kaike@ufrrj-pc", fill="#e06c75", font=font_text)
-d.text((1350, 876), "---------------------------------------------------", fill="#5c6370", font=font_text)
-d.text((1350, 906), "OS:", fill="#98c379", font=font_text)
-d.text((1430, 906), "Ubuntu Linux (x86_64)", fill="#c9d1d9", font=font_text)
-d.text((1350, 933), "Host:", fill="#98c379", font=font_text)
-d.text((1430, 933), "Custom Desktop Rig", fill="#c9d1d9", font=font_text)
-d.text((1350, 960), "Uptime:", fill="#98c379", font=font_text)
-d.text((1430, 960), "2nd Semester (2026)", fill="#c9d1d9", font=font_text)
-d.text((1350, 987), "Institution:", fill="#98c379", font=font_text)
-d.text((1480, 987), "UFRRJ (IM)", fill="#c9d1d9", font=font_text)
-d.text((1350, 1014), "Degree:", fill="#98c379", font=font_text)
-d.text((1430, 1014), "Computer Science", fill="#c9d1d9", font=font_text)
-d.text((1350, 1041), "Language:", fill="#98c379", font=font_text)
-d.text((1460, 1041), "C (Primary)", fill="#c9d1d9", font=font_text)
-d.text((1350, 1068), "Interests:", fill="#98c379", font=font_text)
-d.text((1460, 1068), "Graphs & Data Structs. & Comp. Arch.", fill="#c9d1d9", font=font_text)
-d.text((1350, 1095), "Editor:", fill="#98c379", font=font_text)
-d.text((1430, 1095), "VS Code / Terminal", fill="#c9d1d9", font=font_text)
-d.text((1350, 1122), "Git:", fill="#98c379", font=font_text)
-d.text((1400, 1122), "Git & GitHub", fill="#c9d1d9", font=font_text)
-d.text((1350, 1149), "---------------------------------------------------", fill="#5c6370", font=font_text)
-d.text((1350, 1178), "Contact:", fill="#e5c07b", font=font_text)
-d.text((1350, 1205), "GitHub:", fill="#98c379", font=font_text)
-d.text((1430, 1205), "@kaikea1meida || kaikeaes@gmail.com", fill="#c9d1d9", font=font_text)
-d.text((1350, 1232), "Status:", fill="#98c379", font=font_text)
-d.text((1430, 1232), "Building C Games and Chordal project", fill="#c9d1d9", font=font_text)
+tx = TEXT_START_X
+ty = TEXT_START_Y
+
+d.text((tx, ty), "kaike@ufrrj-pc", fill="#e06c75", font=font_text)
+d.text((tx, ty+26), "---------------------------------------------------", fill="#5c6370", font=font_text)
+d.text((tx, ty+56), "OS:", fill="#98c379", font=font_text)
+d.text((tx+80, ty+56), "Ubuntu Linux (x86_64)", fill="#c9d1d9", font=font_text)
+
+d.text((tx, ty+83), "Host:", fill="#98c379", font=font_text)
+d.text((tx+80, ty+83), "Custom Desktop Rig", fill="#c9d1d9", font=font_text)
+
+d.text((tx, ty+110), "Uptime:", fill="#98c379", font=font_text)
+d.text((tx+80, ty+110), "2nd Semester (2026)", fill="#c9d1d9", font=font_text)
+
+d.text((tx, ty+137), "Institution:", fill="#98c379", font=font_text)
+d.text((tx+130, ty+137), "UFRRJ (IM)", fill="#c9d1d9", font=font_text)
+
+d.text((tx, ty+164), "Degree:", fill="#98c379", font=font_text)
+d.text((tx+80, ty+164), "Computer Science", fill="#c9d1d9", font=font_text)
+
+d.text((tx, ty+191), "Language:", fill="#98c379", font=font_text)
+d.text((tx+110, ty+191), "C (Primary)", fill="#c9d1d9", font=font_text)
+
+d.text((tx, ty+218), "Interests:", fill="#98c379", font=font_text)
+d.text((tx+110, ty+218), "Graphs & Data Structs. & Comp. Arch.", fill="#c9d1d9", font=font_text)
+
+d.text((tx, ty+245), "Editor:", fill="#98c379", font=font_text)
+d.text((tx+80, ty+245), "VS Code / Terminal", fill="#c9d1d9", font=font_text)
+
+d.text((tx, ty+272), "Git:", fill="#98c379", font=font_text)
+d.text((tx+50, ty+272), "Git & GitHub", fill="#c9d1d9", font=font_text)
+
+d.text((tx, ty+299), "---------------------------------------------------", fill="#5c6370", font=font_text)
+
+d.text((tx, ty+328), "Contact:", fill="#e5c07b", font=font_text)
+
+d.text((tx, ty+355), "GitHub:", fill="#98c379", font=font_text)
+d.text((tx+80, ty+355), "@kaikea1meida || kaikeaes@gmail.com", fill="#c9d1d9", font=font_text)
+
+d.text((tx, ty+382), "Status:", fill="#98c379", font=font_text)
+d.text((tx+80, ty+382), "Building C Games and Chordal project", fill="#c9d1d9", font=font_text)
 
 img.save("eueu-avatar.png")
-print("PNG gerado com proporções finais desachatadas!")
+print("Pronto! Agora você tem controle total das proporções e da posição.")
 '
