@@ -6,8 +6,7 @@
 
 # ----Kaike Almeida do Espirito Santo----
 
-<img width="719" height="100" alt="Peek 05-11-2026 11-09" src="https://github.com/user-attachments/assets/574f7e3f-17e3-4f7b-bd94-d7e33190c7ad" />
-
+<img src="./.assets/.assets/apresentação.svg" width="100%" alt="Apresentação Kaike">
 
 **Computer Science Student | C Developer | Graphs & Data Structures**
 
@@ -89,7 +88,9 @@ I'm currently developing a game in **C**, using mainly the **Ncurses** library t
 <details>
   <summary><h3><kbd><b>&nbsp;click - Game info and pictures&nbsp;</b></kbd></h3></summary>
   
-<img width="848" height="143" alt="Jogogif1" src="https://github.com/user-attachments/assets/a6b234e1-2cec-4f15-ba8b-bff32ec18917" />
+<div align="center">
+  <img src="./.assets/.assets/descjogo.svg" width="100%" alt="Informação do Jogo">
+</div>
 
 #### normal opening
 <img width="1858" height="915" alt="Iniciogif" src="https://github.com/user-attachments/assets/e1ea7f8f-71aa-4f70-a20d-d6d146732a43" />
@@ -101,7 +102,9 @@ I'm currently developing a game in **C**, using mainly the **Ncurses** library t
 
 ---
 
-<img width="849" height="95" alt="jogogif2" src="https://github.com/user-attachments/assets/3835a1e3-f238-4c5f-ab30-4541f3edea1f" />
+<div align="center">
+  <img src="./.assets/.assets/prova.svg" width="100%" alt="Enredo">
+</div>
 
 #### tired and hard version of the test
 
@@ -109,7 +112,9 @@ I'm currently developing a game in **C**, using mainly the **Ncurses** library t
 
 ---
 
-<img width="896" height="105" alt="Peek 05-11-2026 11-40" src="https://github.com/user-attachments/assets/c4b96dde-46ec-48bf-99c6-abc8fe5a9ff3" />
+<div align="center">
+  <img src="./.assets/.assets/minigame.svg" width="100%" alt="Minigames">
+</div>
 
 #### snake
 
@@ -126,16 +131,16 @@ I'm currently developing a game in **C**, using mainly the **Ncurses** library t
 
 ---
 
-<img width="896" height="105" alt="jogogif4" src="https://github.com/user-attachments/assets/0d99338a-1587-4f8f-ac59-b32e37c620b6" />
+<div align="center">
+  <img src="./.assets/.assets/quarto.svg" width="100%" alt="Interação na Sala">
+</div>
 
 #### the room
 
 <img width="1562" height="637" alt="jogoquarto" src="https://github.com/user-attachments/assets/7cb5ba9e-1d53-49b9-82e1-d24ec2381f41" />
 
-
-
-
 </details>
+
 The project started as an opportunity during my first semester to explore terminal-based interfaces, keyboard interaction, screen rendering and the practical application of programming concepts. It also involves working with sprites, memory loading and binary archives.
 
 <br>
