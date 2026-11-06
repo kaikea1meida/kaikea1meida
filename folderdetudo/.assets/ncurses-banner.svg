@@ -16,22 +16,19 @@
       .ascii, .plus { fill: #24292f; }
     }
   </style>
-
   <!-- Logo do C Oficial 3D (3 faces isométricas originais + C vazado) -->
   <g transform="translate(15, 20) scale(0.85)">
     <!-- Face Superior (Azul Claro) -->
-    <path fill="#659AD2" d="M 64 0 L 119.426 32 L 64 64 L 8.574 32 Z" />
+    <path fill="#659AD2" d="M 64 0 L 119.426 32 L 64 64 L 8.574 32 Z"/>
     <!-- Face Esquerda/Inferior (Azul Médio) -->
-    <path fill="#00599C" d="M 8.574 32 L 64 64 L 64 128 L 8.574 96 Z" />
+    <path fill="#00599C" d="M 8.574 32 L 64 64 L 64 128 L 8.574 96 Z"/>
     <!-- Face Direita/Sombra (Azul Escuro) -->
-    <path fill="#002A54" d="M 119.426 32 L 119.426 96 L 64 128 L 64 64 Z" />
+    <path fill="#002A54" d="M 119.426 32 L 119.426 96 L 64 128 L 64 64 Z"/>
     <!-- Letra C Branca sobreposta -->
-    <path fill="#FFFFFF" d="M 87.5 40.5 C 81 33.5 72.5 30 63 30 C 44.2 30 29 45.2 29 64 C 29 82.8 44.2 98 63 98 C 72.5 98 81 94.5 87.5 87.5 L 74.5 74.5 C 71.5 78 67.5 80 63 80 C 54.2 80 47 72.8 47 64 C 47 55.2 54.2 48 63 48 C 67.5 48 71.5 50 74.5 53.5 Z" />
+    <path fill="#FFFFFF" d="M 87.5 40.5 C 81 33.5 72.5 30 63 30 C 44.2 30 29 45.2 29 64 C 29 82.8 44.2 98 63 98 C 72.5 98 81 94.5 87.5 87.5 L 74.5 74.5 C 71.5 78 67.5 80 63 80 C 54.2 80 47 72.8 47 64 C 47 55.2 54.2 48 63 48 C 67.5 48 71.5 50 74.5 53.5 Z"/>
   </g>
-
   <!-- Sinal de Adição (+) -->
   <text x="135" y="80" class="plus">+</text>
-
   <!-- Sua arte ASCII híbrida do Ncurses com efeito de sombra 3D -->
   <text class="ascii" xml:space="preserve">
     <tspan x="175" y="28"> ██████╗  █████╗                                                       </tspan>

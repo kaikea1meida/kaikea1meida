@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 730 140" width="100%" height="100%">
+  <style>
+    text { font-family: 'Ubuntu Mono', 'Consolas', monospace; font-size: 16px; }
+    .host { fill: #8ACF31; font-weight: bold; }
+    .path { fill: #4EA8DE; font-weight: bold; }
+    .text { fill: #DCFF00; }
+    rect { width: 0; }
+    @keyframes d0 { 0%, 5% { width: 0; } 20%, 98% { width: 730px; } 99%, 100% { width: 0; } }
+    @keyframes d1 { 0%, 25% { width: 0; } 40%, 98% { width: 730px; } 99%, 100% { width: 0; } }
+    @keyframes d2 { 0%, 45% { width: 0; } 60%, 98% { width: 730px; } 99%, 100% { width: 0; } }
+    @keyframes d3 { 0%, 65% { width: 0; } 80%, 98% { width: 730px; } 99%, 100% { width: 0; } }
+    .l0 { animation: d0 10s infinite; }
+    .l1 { animation: d1 10s infinite; }
+    .l2 { animation: d2 10s infinite; }
+    .l3 { animation: d3 10s infinite; }
+  </style>
+  <defs>
+    <clipPath id="c0">
+      <rect x="0" y="-15" height="30" class="l0"/>
+    </clipPath>
+    <clipPath id="c1">
+      <rect x="0" y="13" height="30" class="l1"/>
+    </clipPath>
+    <clipPath id="c2">
+      <rect x="0" y="41" height="30" class="l2"/>
+    </clipPath>
+    <clipPath id="c3">
+      <rect x="0" y="69" height="30" class="l3"/>
+    </clipPath>
+  </defs>
+  <g transform="translate(10, 30)">
+    <text y="0" clip-path="url(#c0)">
+      <tspan class="host">kaike@desktop:</tspan>
+      <tspan class="path">~/kaikealmeida$ </tspan>
+      <tspan class="text">In the room, we can walk somewhat freely</tspan>
+    </text>
+    <text y="28" clip-path="url(#c1)">
+      <tspan class="host">kaike@desktop:</tspan>
+      <tspan class="path">~/kaikealmeida$ </tspan>
+      <tspan class="text">access minigames or books with just a click</tspan>
+    </text>
+    <text y="56" clip-path="url(#c2)">
+      <tspan class="host">kaike@desktop:</tspan>
+      <tspan class="path">~/kaikealmeida$ </tspan>
+      <tspan class="text">we tried adding some reflections too</tspan>
+    </text>
+    <text y="84" clip-path="url(#c3)">
+      <tspan class="host">kaike@desktop:</tspan>
+      <tspan class="path">~/kaikealmeida$ </tspan>
+      <tspan class="text">and there are animations for holding things</tspan>
+    </text>
+  </g>
+</svg>
