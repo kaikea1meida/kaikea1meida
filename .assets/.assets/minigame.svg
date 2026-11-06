@@ -15,15 +15,39 @@
     .l3 { animation: d3 10s infinite; }
   </style>
   <defs>
-    <clipPath id="c0"><rect x="0" y="-15" height="30" class="l0" /></clipPath>
-    <clipPath id="c1"><rect x="0" y="13" height="30" class="l1" /></clipPath>
-    <clipPath id="c2"><rect x="0" y="41" height="30" class="l2" /></clipPath>
-    <clipPath id="c3"><rect x="0" y="69" height="30" class="l3" /></clipPath>
+    <clipPath id="c0">
+      <rect x="0" y="-15" height="30" class="l0"/>
+    </clipPath>
+    <clipPath id="c1">
+      <rect x="0" y="13" height="30" class="l1"/>
+    </clipPath>
+    <clipPath id="c2">
+      <rect x="0" y="41" height="30" class="l2"/>
+    </clipPath>
+    <clipPath id="c3">
+      <rect x="0" y="69" height="30" class="l3"/>
+    </clipPath>
   </defs>
   <g transform="translate(10, 30)">
-    <text y="0" clip-path="url(#c0)"><tspan class="host">kaike@desktop:</tspan><tspan class="path">~/kaikealmeida$ </tspan><tspan class="text">We also made some minigames!!!</tspan></text>
-    <text y="28" clip-path="url(#c1)"><tspan class="host">kaike@desktop:</tspan><tspan class="path">~/kaikealmeida$ </tspan><tspan class="text">as basic as they can be, in C everything is...</tspan></text>
-    <text y="56" clip-path="url(#c2)"><tspan class="host">kaike@desktop:</tspan><tspan class="path">~/kaikealmeida$ </tspan><tspan class="text">a little complicated</tspan></text>
-    <text y="84" clip-path="url(#c3)"><tspan class="host">kaike@desktop:</tspan><tspan class="path">~/kaikealmeida$ </tspan><tspan class="text">but over time you'll learn how to get it done</tspan></text>
+    <text y="0" clip-path="url(#c0)">
+      <tspan class="host">kaike@desktop:</tspan>
+      <tspan class="path">~/kaikealmeida$ </tspan>
+      <tspan class="text">We also made some minigames!!!</tspan>
+    </text>
+    <text y="28" clip-path="url(#c1)">
+      <tspan class="host">kaike@desktop:</tspan>
+      <tspan class="path">~/kaikealmeida$ </tspan>
+      <tspan class="text">as basic as they can be, in C everything is...</tspan>
+    </text>
+    <text y="56" clip-path="url(#c2)">
+      <tspan class="host">kaike@desktop:</tspan>
+      <tspan class="path">~/kaikealmeida$ </tspan>
+      <tspan class="text">a little complicated</tspan>
+    </text>
+    <text y="84" clip-path="url(#c3)">
+      <tspan class="host">kaike@desktop:</tspan>
+      <tspan class="path">~/kaikealmeida$ </tspan>
+      <tspan class="text">but over time you'll learn how to get it done</tspan>
+    </text>
   </g>
 </svg>
