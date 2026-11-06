@@ -40,7 +40,7 @@ Most of my current studies involve projects in **C**, including algorithms for r
 <br>
 
 <p align="center">
-  <img src="./.assets/eueu-avatar.png?v=2" alt="Avatar ASCII" width="100%">
+  <img src="./.assets/avatar-animado0.svg" alt="Avatar ASCII" width="100%">
 </p>
 
 <br>

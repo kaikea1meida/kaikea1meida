@@ -40,7 +40,7 @@ O que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritm
 <br>
 
 <p align="center">
-  <img src="./.assets/eueu-avatar.png?v=2" alt="Avatar ASCII" width="100%">
+  <img src="./.assets/avatar-animado0.svg" alt="Avatar ASCII" width="100%">
 </p>
 
 <br>
