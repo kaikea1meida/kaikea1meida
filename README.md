@@ -6,7 +6,36 @@
 
 # ----Kaike Almeida do Espirito Santo----
 
-<img width="719" height="100" alt="Peek 05-11-2026 11-09" src="https://github.com/user-attachments/assets/574f7e3f-17e3-4f7b-bd94-d7e33190c7ad" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 140" width="100%" height="100%">
+  <style>
+    text { font-family: 'Ubuntu Mono', 'Consolas', monospace; font-size: 15px; }
+    .host { fill: #8ACF31; font-weight: bold; }
+    .path { fill: #4EA8DE; font-weight: bold; }
+    .text { fill: #DCFF00; }
+    rect { width: 0; }
+    @keyframes d0 { 0%, 5% { width: 0; } 20%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    @keyframes d1 { 0%, 25% { width: 0; } 40%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    @keyframes d2 { 0%, 45% { width: 0; } 60%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    @keyframes d3 { 0%, 65% { width: 0; } 80%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    .l0 { animation: d0 10s infinite; }
+    .l1 { animation: d1 10s infinite; }
+    .l2 { animation: d2 10s infinite; }
+    .l3 { animation: d3 10s infinite; }
+  </style>
+  <defs>
+    <clipPath id="c0"><rect x="0" y="-15" height="30" class="l0" /></clipPath>
+    <clipPath id="c1"><rect x="0" y="13" height="30" class="l1" /></clipPath>
+    <clipPath id="c2"><rect x="0" y="41" height="30" class="l2" /></clipPath>
+    <clipPath id="c3"><rect x="0" y="69" height="30" class="l3" /></clipPath>
+  </defs>
+  <g transform="translate(15, 30)">
+    <text y="0" clip-path="url(#c0)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">Hi there!</tspan></text>
+    <text y="28" clip-path="url(#c1)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">I'm Kaíke!!!</tspan></text>
+    <text y="56" clip-path="url(#c2)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">It's a pleasure to meet you!</tspan></text>
+    <text y="84" clip-path="url(#c3)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">Thats my readme, I hope you like it</tspan></text>
+  </g>
+</svg>
+
 
 
 **Computer Science Student | C Developer | Graphs & Data Structures**
@@ -89,7 +118,36 @@ I'm currently developing a game in **C**, using mainly the **Ncurses** library t
 <details>
   <summary><h3><kbd><b>&nbsp;click - Game info and pictures&nbsp;</b></kbd></h3></summary>
   
-<img width="848" height="143" alt="Jogogif1" src="https://github.com/user-attachments/assets/a6b234e1-2cec-4f15-ba8b-bff32ec18917" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 140" width="100%" height="100%">
+  <style>
+    text { font-family: 'Ubuntu Mono', 'Consolas', monospace; font-size: 15px; }
+    .host { fill: #8ACF31; font-weight: bold; }
+    .path { fill: #4EA8DE; font-weight: bold; }
+    .text { fill: #DCFF00; }
+    rect { width: 0; }
+    @keyframes d0 { 0%, 5% { width: 0; } 20%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    @keyframes d1 { 0%, 25% { width: 0; } 40%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    @keyframes d2 { 0%, 45% { width: 0; } 60%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    @keyframes d3 { 0%, 65% { width: 0; } 80%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    .l0 { animation: d0 10s infinite; }
+    .l1 { animation: d1 10s infinite; }
+    .l2 { animation: d2 10s infinite; }
+    .l3 { animation: d3 10s infinite; }
+  </style>
+  <defs>
+    <clipPath id="c0"><rect x="0" y="-15" height="30" class="l0" /></clipPath>
+    <clipPath id="c1"><rect x="0" y="13" height="30" class="l1" /></clipPath>
+    <clipPath id="c2"><rect x="0" y="41" height="30" class="l2" /></clipPath>
+    <clipPath id="c3"><rect x="0" y="69" height="30" class="l3" /></clipPath>
+  </defs>
+  <g transform="translate(15, 30)">
+    <text y="0" clip-path="url(#c0)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">The game has an interactive and responsive interface</tspan></text>
+    <text y="28" clip-path="url(#c1)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">It changes with your monitor size</tspan></text>
+    <text y="56" clip-path="url(#c2)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">You can navigate through keybidings</tspan></text>
+    <text y="84" clip-path="url(#c3)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">you can personalize your character, add color and more</tspan></text>
+  </g>
+</svg>
+
 
 #### normal opening
 <img width="1858" height="915" alt="Iniciogif" src="https://github.com/user-attachments/assets/e1ea7f8f-71aa-4f70-a20d-d6d146732a43" />
@@ -101,7 +159,36 @@ I'm currently developing a game in **C**, using mainly the **Ncurses** library t
 
 ---
 
-<img width="849" height="95" alt="jogogif2" src="https://github.com/user-attachments/assets/3835a1e3-f238-4c5f-ab30-4541f3edea1f" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 140" width="100%" height="100%">
+  <style>
+    text { font-family: 'Ubuntu Mono', 'Consolas', monospace; font-size: 15px; }
+    .host { fill: #8ACF31; font-weight: bold; }
+    .path { fill: #4EA8DE; font-weight: bold; }
+    .text { fill: #DCFF00; }
+    rect { width: 0; }
+    @keyframes d0 { 0%, 5% { width: 0; } 20%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    @keyframes d1 { 0%, 25% { width: 0; } 40%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    @keyframes d2 { 0%, 45% { width: 0; } 60%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    @keyframes d3 { 0%, 65% { width: 0; } 80%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    .l0 { animation: d0 10s infinite; }
+    .l1 { animation: d1 10s infinite; }
+    .l2 { animation: d2 10s infinite; }
+    .l3 { animation: d3 10s infinite; }
+  </style>
+  <defs>
+    <clipPath id="c0"><rect x="0" y="-15" height="30" class="l0" /></clipPath>
+    <clipPath id="c1"><rect x="0" y="13" height="30" class="l1" /></clipPath>
+    <clipPath id="c2"><rect x="0" y="41" height="30" class="l2" /></clipPath>
+    <clipPath id="c3"><rect x="0" y="69" height="30" class="l3" /></clipPath>
+  </defs>
+  <g transform="translate(15, 30)">
+    <text y="0" clip-path="url(#c0)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">The main plot is that you are a student that struggles</tspan></text>
+    <text y="28" clip-path="url(#c1)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">as we all do</tspan></text>
+    <text y="56" clip-path="url(#c2)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">to study for a test</tspan></text>
+    <text y="84" clip-path="url(#c3)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">and is prone to procrastinate instead</tspan></text>
+  </g>
+</svg>
+
 
 #### tired and hard version of the test
 
@@ -109,7 +196,36 @@ I'm currently developing a game in **C**, using mainly the **Ncurses** library t
 
 ---
 
-<img width="896" height="105" alt="Peek 05-11-2026 11-40" src="https://github.com/user-attachments/assets/c4b96dde-46ec-48bf-99c6-abc8fe5a9ff3" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 140" width="100%" height="100%">
+  <style>
+    text { font-family: 'Ubuntu Mono', 'Consolas', monospace; font-size: 15px; }
+    .host { fill: #8ACF31; font-weight: bold; }
+    .path { fill: #4EA8DE; font-weight: bold; }
+    .text { fill: #DCFF00; }
+    rect { width: 0; }
+    @keyframes d0 { 0%, 5% { width: 0; } 20%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    @keyframes d1 { 0%, 25% { width: 0; } 40%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    @keyframes d2 { 0%, 45% { width: 0; } 60%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    @keyframes d3 { 0%, 65% { width: 0; } 80%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    .l0 { animation: d0 10s infinite; }
+    .l1 { animation: d1 10s infinite; }
+    .l2 { animation: d2 10s infinite; }
+    .l3 { animation: d3 10s infinite; }
+  </style>
+  <defs>
+    <clipPath id="c0"><rect x="0" y="-15" height="30" class="l0" /></clipPath>
+    <clipPath id="c1"><rect x="0" y="13" height="30" class="l1" /></clipPath>
+    <clipPath id="c2"><rect x="0" y="41" height="30" class="l2" /></clipPath>
+    <clipPath id="c3"><rect x="0" y="69" height="30" class="l3" /></clipPath>
+  </defs>
+  <g transform="translate(15, 30)">
+    <text y="0" clip-path="url(#c0)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">We also made some minigames!!!</tspan></text>
+    <text y="28" clip-path="url(#c1)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">as basic as they can be, in C everything is...</tspan></text>
+    <text y="56" clip-path="url(#c2)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">a little complicated</tspan></text>
+    <text y="84" clip-path="url(#c3)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">but with some time you start to understand how to get it done</tspan></text>
+  </g>
+</svg>
+
 
 #### snake
 
@@ -126,7 +242,35 @@ I'm currently developing a game in **C**, using mainly the **Ncurses** library t
 
 ---
 
-<img width="896" height="105" alt="jogogif4" src="https://github.com/user-attachments/assets/0d99338a-1587-4f8f-ac59-b32e37c620b6" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 140" width="100%" height="100%">
+  <style>
+    text { font-family: 'Ubuntu Mono', 'Consolas', monospace; font-size: 15px; }
+    .host { fill: #8ACF31; font-weight: bold; }
+    .path { fill: #4EA8DE; font-weight: bold; }
+    .text { fill: #DCFF00; }
+    rect { width: 0; }
+    @keyframes d0 { 0%, 5% { width: 0; } 20%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    @keyframes d1 { 0%, 25% { width: 0; } 40%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    @keyframes d2 { 0%, 45% { width: 0; } 60%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    @keyframes d3 { 0%, 65% { width: 0; } 80%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    .l0 { animation: d0 10s infinite; }
+    .l1 { animation: d1 10s infinite; }
+    .l2 { animation: d2 10s infinite; }
+    .l3 { animation: d3 10s infinite; }
+  </style>
+  <defs>
+    <clipPath id="c0"><rect x="0" y="-15" height="30" class="l0" /></clipPath>
+    <clipPath id="c1"><rect x="0" y="13" height="30" class="l1" /></clipPath>
+    <clipPath id="c2"><rect x="0" y="41" height="30" class="l2" /></clipPath>
+    <clipPath id="c3"><rect x="0" y="69" height="30" class="l3" /></clipPath>
+  </defs>
+  <g transform="translate(15, 30)">
+    <text y="0" clip-path="url(#c0)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">In the room, we can walk somewhat freely</tspan></text>
+    <text y="28" clip-path="url(#c1)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">access the minigames or some books, with just a click</tspan></text>
+    <text y="56" clip-path="url(#c2)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">we tried adding some reflections too</tspan></text>
+    <text y="84" clip-path="url(#c3)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">and there are animations for when you're holding things</tspan></text>
+  </g>
+</svg>
 
 #### the room
 
