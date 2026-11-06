@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 140" width="100%" height="100%">
+  <style>
+    text { font-family: 'Ubuntu Mono', 'Consolas', monospace; font-size: 15px; }
+    .host { fill: #8ACF31; font-weight: bold; }
+    .path { fill: #4EA8DE; font-weight: bold; }
+    .text { fill: #DCFF00; }
+    rect { width: 0; }
+    @keyframes d0 { 0%, 5% { width: 0; } 20%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    @keyframes d1 { 0%, 25% { width: 0; } 40%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    @keyframes d2 { 0%, 45% { width: 0; } 60%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    @keyframes d3 { 0%, 65% { width: 0; } 80%, 98% { width: 950px; } 99%, 100% { width: 0; } }
+    .l0 { animation: d0 10s infinite; }
+    .l1 { animation: d1 10s infinite; }
+    .l2 { animation: d2 10s infinite; }
+    .l3 { animation: d3 10s infinite; }
+  </style>
+  <defs>
+    <clipPath id="c0"><rect x="0" y="-15" height="30" class="l0" /></clipPath>
+    <clipPath id="c1"><rect x="0" y="13" height="30" class="l1" /></clipPath>
+    <clipPath id="c2"><rect x="0" y="41" height="30" class="l2" /></clipPath>
+    <clipPath id="c3"><rect x="0" y="69" height="30" class="l3" /></clipPath>
+  </defs>
+  <g transform="translate(15, 30)">
+    <text y="0" clip-path="url(#c0)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">The game has an interactive and responsive interface</tspan></text>
+    <text y="28" clip-path="url(#c1)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">It changes with your monitor size</tspan></text>
+    <text y="56" clip-path="url(#c2)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">You can navigate through keybidings</tspan></text>
+    <text y="84" clip-path="url(#c3)"><tspan class="host">kaike@desktop-kaike:</tspan><tspan class="path">~/Kaike-readme/kaikealmeida$ </tspan><tspan class="text">you can personalize your character, add color and more</tspan></text>
+  </g>
+</svg>
