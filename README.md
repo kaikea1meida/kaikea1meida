@@ -45,12 +45,6 @@ Most of my current studies involve projects in **C**, including algorithms for r
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/kaikea1meida">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikea1meida&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
 ---
 
 ## `02.` Technologies & Knowledge
