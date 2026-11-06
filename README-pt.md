@@ -45,12 +45,6 @@ O que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritm
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/kaikea1meida">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikea1meida&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
 ---
 
 ## `02.` Tecnologias e Conhecimentos
