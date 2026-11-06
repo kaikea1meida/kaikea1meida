@@ -1,0 +1,156 @@
+<!-- clipPath e rect: -->
+<!-- o rect desenha um quadrado amarelo e preto ou com uma outra cor -->
+<!-- quando botamos o clipPath ele não ganha cor, ele só mostra quais partes podem ficar visivceis. --> 
+<!-- se botar width: 0, nada fica visivel. -->
+
+<!-- @keyframes e porcentagens -->
+<!-- considerando que o Svg dura 10 segundos, se eu digo que algo acontece aos 50% o navegador já sabe que é o 5, ai n precisa de muita matematica -->
+
+<!-- tspan: -->
+<!-- se não usar ele, ia precisar botar cada coordenada manualmente, ele empurra as próximas palavras pra frente de forma automática, tipo num texto normal, ao inves de botar as letras tudo num lugar só -->
+
+<!-- linhas tipo --> 
+<!-- .10 {animation:d0 10s infinite;} -->
+<!-- se mudar os segundos de 10s pra 5s vai acelerar a escrita em 2x, pq ela vai fazer a mesma coisa num mesmo tempo relativo mas na metade do tempo em si -->
+<!-- os bagulho com # tipo o #8ACF31 são cores em hexadecimal, RGB #ff0000 #00ff00 #0000ff onde branco é #ffffff e preto é #000000, porque branco é ter todas as luzes e preto nenhuma -->
+
+
+
+<!-- svg -->
+
+  <!-- As tags podem ter ATRIBUTOS. Os atributos ficam DENTRO da tag de abertura, separados por espaços. -->
+  <!-- A sintaxe é rigorosa: nome_do_atributo = "valor". -->
+  <!-- Diferente do C, onde as aspas duplas ("") só guardam strings e textos, no XML TUDO que for valor de atributo TEM que usar aspas duplas, até números. -->
+  <rect width="100" height="50">
+  
+  <!-- Regra de Ouro do XML: toda tag que você abre, você TEM que fechar. -->
+  <!-- A TAG DE FECHAMENTO é escrita igualzinha à de abertura, mas obrigatoriamente leva uma barra inclinada (/) ANTES do nome. -->
+  <!-- Isso avisa o computador que a caixa "rect" acabou. -->
+  </rect>
+
+  <!-- Truque/Atalho: se a sua tag não for guardar nenhum texto dentro dela (como o retângulo acima), você não precisa gastar duas linhas. -->
+  <!-- Você pode abrir e fechar a tag de uma vez só colocando a barra (/) no próprio final da tag de abertura. -->
+  <!-- Isso se chama "Self-closing tag" (Tag auto-fechada). Repare na barra no final, antes do >. -->
+  <circle fill="red" />
+
+  <!-- O poder do XML é o ANINHAMENTO (colocar caixas dentro de caixas, formando uma árvore). -->
+  <!-- Aqui abrimos a tag "text". -->
+  <text>
+    
+    <!-- O que fica entre a tag de abertura e a de fechamento é o CONTEÚDO da tag. -->
+    <!-- Nesse caso, o conteúdo é literalmente a palavra que vai aparecer na tela. -->
+    Kaike
+    
+  <!-- Fechamos a caixa "text". -->
+  </text>
+
+<!-- Finalmente, fechamos a tag "svg" que abrimos lá na primeira linha. Fim do arquivo. -->
+</svg>
+
+
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 730 140" width="100%" height="100%">
+  
+  <!-- A tag <style> abre um bloco onde paramos de falar XML e começamos a falar CSS. -->
+  <!-- CSS é focado só em visual: cor, tamanho de fonte, regras de animação. -->
+  <style>
+    /* Em CSS, se você escreve uma palavra sem ponto na frente, como "text", você está criando uma regra global (um Seletor de Tag). */
+    /* Não é uma variável. É um comando que diz: "Procure TODAS as tags <text> e aplique essa fonte e tamanho pra elas". É tipo um #define global no C. */
+    <!-- text nesse caso é uma "regra, pra todas as tags que tiverem esse text antes vão ter isso aplicado" -->
+    text { font-family: 'Ubuntu Mono', 'Consolas', monospace; font-size: 16px; }
+    
+    /* Quando botamos um PONTO na frente, como em .host, estamos criando uma Classe. */
+    /* Classe é como um "crachá" de identificação. Você cria a regra aqui no CSS e depois bota o crachá lá no XML em quem você quiser. */
+    /* O .host e o .path têm "font-weight: bold" para a letra ficar grossa. */
+
+    <!-- o . na frente de algo é pra criar uma classe, literalmente uma classificação, voce da uma identificação pra algo., em CSS é criada a regra e em XML ela é aplicada
+    nesse caso, o .host e o .path recebem o " peso da fonte" como bold pra ativar o negrito -->
+    .host { fill: #8ACF31; font-weight: bold; }
+    .path { fill: #4EA8DE; font-weight: bold; }
+    
+    /* .text aqui COM PONTO é uma classe (um crachá), não confunda com a tag "text" sem ponto lá de cima! */
+    /* Nela eu não botei o bold porque a sua frase amarela não precisava ser grossa. */
+    <!--  aqui ta só sendo definido que o que for classificado como texto deve ter a cor amarela -->
+    .text { fill: #DCFF00; }
+    
+    /* Pega todas as máscaras invisíveis (<rect>) e zera a largura inicial delas. */
+     <!--  o react pega as marcas invisiveis e define um quadro, se deixar zerado, só não tem -->
+    rect { width: 0; }
+    
+    /* @keyframes é o comando do CSS pra ensinar os passos de uma animação. Damos o nome "d0", "d1", "d2" e "d3" pra elas. Não tem d4 porque só temos 4 frases na tela. */
+    /* Os parâmetros "0%, 5%" são os momentos no tempo. De 0% até 5% do tempo total, a largura (width) fica travada em 0. */
+    /* De 20% a 98%, a largura cresce para 730px. Por isso escrevemos width várias vezes, estamos mudando o estado da variável ao longo do tempo. */
+    <!--  os @keyframes é o comando que fala os paços da animação, tipo os frames, mas é definido por momentos do tempo total com uma porcentagem, se é 0%, 50% vai do inicio
+    até a metade do tempo total, seja ele 10s(da 5s) ou 60s(que da 30s),
+    aqui ta falando que do tempo 0 até 5 porcento do tempo total não tem nada, fica com 0 de width -->
+    @keyframes d0
+    { 
+      0%, 5% { width: 0;} <!-- aqui, entre 5 e 20 acontece uma prgressão, vai aumentando de 0px até 730px -->
+      20%, 98% { width: 730px;} 
+      99%, 100% { width: 0; } 
+    }
+    @keyframes d1 
+    {
+      0%, 25% { width: 0;}
+      40%, 98% { width: 730px;}
+      99%, 100% { width: 0; }
+    }
+    @keyframes d2 
+    {
+      0%, 45% { width: 0;}
+      60%, 98% { width: 730px;}
+      99%, 100% { width: 0;}
+    }
+    @keyframes d3 
+    {
+      0%, 65% { width: 0;}
+      80%, 98% { width: 730px;}
+      99%, 100% { width: 0; } 
+    }
+    
+    /* Criamos as classes (.l0, .l1, .l2, .l3) para aplicar os @keyframes que criamos acima. */
+    /* Em CSS, pra rodar uma animação, precisamos usar a palavra-chave "animation:", passar o nome do keyframe (d0), o tempo total da rodada (10s) e que ele repete infinitamente (infinite). */
+    /* Separamos "d0" e "l0" porque o d0 é SÓ o formato do movimento. A classe l0 é quem define que esse movimento vai durar 10 segundos. Igual fazer uma função void e depois chamar ela na main() num loop infinito. */
+    
+    <!--  aqui tamo criando outras classes, onde tem que por animation pra falar que é uma animação, ai eu edfino o keyframe que eu já fiz antes e boto o tempo e a repetição, que nesse caso é infinita -->
+    .l0 { animation: d0 10s infinite; }
+    .l1 { animation: d1 10s infinite; }
+    .l2 { animation: d2 10s infinite; }
+    .l3 { animation: d3 10s infinite; }
+  </rect></text></style>
+  
+  <!-- A tag <defs> significa "Definitions" (Definições). Tudo que tá aqui dentro não aparece na tela direto, fica guardado na memória. Não tem nada a ver com Orientação a Objetos. -->
+  <defs>
+    <!-- clipPath é a nossa máscara de recorte. O id="c0" é o nome da variável pra gente referenciar depois. Usamos "c0" (Clip zero) pra não misturar o nome com a animação (d0, l0). -->
+    <!-- <rect> é um retângulo dentro da máscara. Colocamos ele pra usar a classe "l0" que ensina ele a crescer 730px no tempo certo. -->
+    <clipPath id="c0"><rect x="0" y="-15" height="30" class="l0" /></clipPath>
+    <clipPath id="c1"><rect x="0" y="13" height="30" class="l1" /></clipPath>
+    <clipPath id="c2"><rect x="0" y="41" height="30" class="l2" /></clipPath>
+    <clipPath id="c3"><rect x="0" y="69" height="30" class="l3" /></clipPath>
+  </defs>
+  
+  <!-- A tag <g> agrupa elementos. O comando transform="translate(10, 30)" empurra todos os textos filhos de uma vez só: 10 pixels pra direita no eixo X, e 30 pixels pra baixo no eixo Y. -->
+  <g transform="translate(10, 30)">
+    
+    <!-- clip-path="url(#c0)" é como um ponteiro. O URL e o # avisam o XML: "procure na memória quem tem o id c0 e aplique aqui". Ele acha a nossa máscara na tag <defs>! -->
+    <!-- O y="0" é a altura dessa linha específica de texto (relativa ao empurrão de 30px que a tag <g> já deu). -->
+    <text y="0" clip-path="url(#c0)">
+      
+      <!-- A tag <tspan> quebra um texto pra gente poder dar o "crachá" (classe) com a cor verde (.host), azul (.path) ou amarela (.text) pra cada pedaço da frase na mesma linha horizontal. -->
+      <tspan class="host">kaike@desktop:</tspan>
+      <tspan class="path">~/kaikealmeida$ </tspan>
+      <tspan class="text">Oi!</tspan>
+    </text>
+    
+    <!-- Desce o Y pra 28 e aplica a máscara c1 (que começa a animar mais tarde, nos 25%). -->
+    <text y="28" clip-path="url(#c1)"><tspan class="host">kaike@desktop:</tspan><tspan class="path">~/kaikealmeida$ </tspan><tspan class="text">Meu nome é Kaike!!!</tspan></text>
+    
+    <!-- Desce o Y pra 56 e aplica a máscara c2. -->
+    <text y="56" clip-path="url(#c2)"><tspan class="host">kaike@desktop:</tspan><tspan class="path">~/kaikealmeida$ </tspan><tspan class="text">Prazer!</tspan></text>
+    
+    <!-- Desce o Y pra 84 e aplica a máscara c3. -->
+    <text y="84" clip-path="url(#c3)"><tspan class="host">kaike@desktop:</tspan><tspan class="path">~/kaikealmeida$ </tspan><tspan class="text">Esse é o meu Readme, espero que goste!</tspan></text>
+  </g>
+</svg>

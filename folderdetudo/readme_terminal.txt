@@ -1,0 +1,5 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=15&color=8ACF31&duration=20&pause=2980&multiline=true&repeat=true&width=150&height=110&v=5&lines=kaike%40desktop-kaike%3A;kaike%40desktop-kaike%3A;kaike%40desktop-kaike%3A" alt="Host" valign="top" /><!--
+  --><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=15&color=4EA8DE&duration=20&pause=2980&multiline=true&repeat=true&width=225&height=110&v=5&lines=~%2FKaike-readme%2Fkaikea1meida%24;~%2FKaike-readme%2Fkaikea1meida%24;~%2FKaike-readme%2Fkaikea1meida%24" alt="Caminho" valign="top" /><!--
+  --><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=15&color=DCFF00&duration=2000&pause=1000&multiline=true&repeat=true&width=380&height=110&v=5&lines=Esse+projeto+envolve+uma+interfa%C3%A7e+interativa;que+possibilita+personalizar+o+personagem;escolher+detalhes+e+op%C3%A7%C3%B5es+diversas+PULA" alt="Texto" valign="top" />
+</div>
