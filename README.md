@@ -2,9 +2,13 @@
   <a href="README.md">English</a> | <a href="README-pt.md">Português</a>
 </div>
 
+---
+
 <div align="center">
 
 # ----Kaike Almeida do Espirito Santo----
+
+---
 
 <img src="./.assets/.assets/apresentação.svg" width="100%" alt="Apresentação Kaike">
 
