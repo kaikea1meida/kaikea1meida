@@ -5,10 +5,29 @@
     .path { fill: #4EA8DE; font-weight: bold; }
     .text { fill: #DCFF00; }
     rect { width: 0; }
-    @keyframes d0 { 0%, 5% { width: 0; } 20%, 98% { width: 730px; } 99%, 100% { width: 0; } }
-    @keyframes d1 { 0%, 25% { width: 0; } 40%, 98% { width: 730px; } 99%, 100% { width: 0; } }
-    @keyframes d2 { 0%, 45% { width: 0; } 60%, 98% { width: 730px; } 99%, 100% { width: 0; } }
-    @keyframes d3 { 0%, 65% { width: 0; } 80%, 98% { width: 730px; } 99%, 100% { width: 0; } }
+    @keyframes d0 { 
+  0% { width: 270px; } 
+  20%, 98% { width: 730px; } 
+  99%, 100% { width: 0; } 
+}
+@keyframes d1 { 
+  0%, 24.99% { width: 0; } 
+  25% { width: 270px; } 
+  40%, 98% { width: 730px; } 
+  99%, 100% { width: 0; } 
+}
+@keyframes d2 { 
+  0%, 44.99% { width: 0; } 
+  45% { width: 270px; } 
+  60%, 98% { width: 730px; } 
+  99%, 100% { width: 0; } 
+}
+@keyframes d3 { 
+  0%, 64.99% { width: 0; } 
+  65% { width: 270px; } 
+  80%, 98% { width: 730px; } 
+  99%, 100% { width: 0; } 
+}
     .l0 { animation: d0 10s infinite; }
     .l1 { animation: d1 10s infinite; }
     .l2 { animation: d2 10s infinite; }
@@ -37,7 +56,7 @@
     <text y="28" clip-path="url(#c1)">
       <tspan class="host">kaike@desktop:</tspan>
       <tspan class="path">~/kaikealmeida$ </tspan>
-      <tspan class="text">como todos nós fazemos</tspan>
+      <tspan class="text">como todos nós</tspan>
     </text>
     <text y="56" clip-path="url(#c2)">
       <tspan class="host">kaike@desktop:</tspan>
@@ -47,7 +66,7 @@
     <text y="84" clip-path="url(#c3)">
       <tspan class="host">kaike@desktop:</tspan>
       <tspan class="path">~/kaikealmeida$ </tspan>
-      <tspan class="text">e acaba procrastinando no lugar</tspan>
+      <tspan class="text">e da umas procrastinadas</tspan>
     </text>
   </g>
 </svg>
