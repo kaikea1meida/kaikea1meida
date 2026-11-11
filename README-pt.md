@@ -250,7 +250,9 @@ Como construímos:
   <img width="45%" alt="Bipartido_vertice_clique_com_c6" src="https://github.com/user-attachments/assets/14d33543-b1a3-4c9b-964b-e5492b83e758" />
 </p>
 
+
 #### 4-sol induzido e C8 induzido
+
 <p align="center">
   <img width="45%" alt="Grafo_com_4_sol" src="https://github.com/user-attachments/assets/8190fb4b-fbd3-4fc8-bb39-4b34bb47fcf7" />
   <img width="45%" alt="Bipartido_vertice_clique_com_c8" src="https://github.com/user-attachments/assets/a512ee2a-36fe-44ae-af4b-aaa6af073f18" />
