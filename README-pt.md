@@ -71,6 +71,8 @@ O que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritm
 
 ---
 
+<div align="left">
+
 ## `03.` Trabalhando atualmente em
 
 ### Jogo no Terminal — C + Ncurses
