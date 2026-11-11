@@ -70,6 +70,8 @@ Most of my current studies involve projects in **C**, including algorithms for r
 
 ---
 
+<div align="left"> 
+  
 ## `03.` Working on
 
 ### Terminal Game — C + Ncurses
