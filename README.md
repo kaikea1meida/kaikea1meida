@@ -189,6 +189,8 @@ This project involves studying graph representations and applying data structure
 
 This project recognizes whether a graph G is strongly chordal by reducing the problem to checking if its auxiliary vertex-clique graph H(G) is chordal bipartite.
 
+We tried to use something different from the usual SPEO ( Strong Perfect Elimination ordering), so we looked for different articles
+
 We are also visualizing the graphs through adjacency matrices, looking only at one triangle (upper or lower, depending on the necessity).
 
 ### Theoretical idea
@@ -205,13 +207,16 @@ A graph G is strongly chordal if and only if its vertex-clique incidence graph H
 
 How we build it:
 
-1. Run a Perfect Elimination Ordering (PEO) on G, to be sure that it is chordal at least, because looking for cliques in a non-chordal graph may be NP-complete.
+- 1. Run a Perfect Elimination Ordering (PEO) on G, to be sure that it is chordal at least, because looking for cliques in a non-chordal graph may be NP-complete.
+
+<img width="670" height="334" alt="Matriz_Schordals" src="https://github.com/user-attachments/assets/906a2a95-3e6d-4dd3-a488-77381e785fc2" />
+
 <details>
 <summary><kbd><sub><b>&nbsp;about the gif&nbsp;</b></sub></kbd></summary>
   ##### *this image is not from our project, but it represents almost exactly what we are doing here, it is from: https://oxfordcontrol.github.io/COSMO.jl/stable/decomposition/*
 </details>
-2. For each vertex in the PEO, take its remaining closed neighborhood.
-3. Check if that neighborhood is already contained in an existing clique in Y. If it's not, add a new clique node to Y and link it to all vertices in that neighborhood.
+- 2. For each vertex in the PEO, take its remaining closed neighborhood.
+- 3. Check if that neighborhood is already contained in an existing clique in Y. If it's not, add a new clique node to Y and link it to all vertices in that neighborhood.
 
 #### 2. Bisimplicial elimination on H(G)
 
@@ -220,7 +225,24 @@ How we build it:
 - If it does, pick the bisimplicial vertex (the one whose neighborhood sits entirely inside this biclique).
 - Remove that vertex and all its incident edges from H(G).
 
-#### 3. Output
+#### 3. Explaning why
+
+- "how would finding these bisimplicial vertexes, or not, help on the classification of an Strongly chordal graph?" you may ask
+- that is the interesting part of the algorithm that we used, if we find an induced cicle, greater than 4 on the vertex clique bipartite it means that on the original graph G there is an N-sun.
+- for example, if there is an induced C6 on H(G) there is an induced 3-Sun in G, ou an C8 that means an induced 4-Sun.
+
+#### induced 3-Sun and induced C6
+<p align="center">
+  <img width="45%" alt="Grafo_com_3_sol" src="https://github.com/user-attachments/assets/7bc3721f-5539-43bb-8526-ae173a0d976b" />
+  <img width="45%" alt="Bipartido_vertice_clique_com_c6" src="https://github.com/user-attachments/assets/14d33543-b1a3-4c9b-964b-e5492b83e758" />
+</p>
+
+#### induced 4-Sun and induced C8
+<p align="center">
+  <img width="45%" alt="Grafo_com_4_sol" src="https://github.com/user-attachments/assets/8190fb4b-fbd3-4fc8-bb39-4b34bb47fcf7" />
+  <img width="45%" alt="Bipartido_vertice_clique_com_c8" src="https://github.com/user-attachments/assets/a512ee2a-36fe-44ae-af4b-aaa6af073f18" />
+</p>
+#### 4. Output
 
 - **If H(G) ends up completely empty:** G is strongly chordal.
 - **If the loop gets stuck and can't find any bisimplicial vertices:** G is not strongly chordal.
