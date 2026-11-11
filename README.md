@@ -173,14 +173,21 @@ Another project I'm working on is a library related to **strongly chordal graphs
 This project involves studying graph representations and applying data structures to work with graph-related problems.
 
 <div align="center">
+
   <img src="./.assets/Matriz_Schordals.gif" alt="Adjacency Matrix - Strongly Chordal Graphs" width="650">
+
 </div>
+
 <br>
 
 <div align="center">
+
   <img src="https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+
   <img src="https://img.shields.io/badge/Topic-Graph%20Theory-6A5ACD?style=flat-square" alt="Graph theory">
+
   <img src="https://img.shields.io/badge/Topic-Data%20Structures-2E8B57?style=flat-square" alt="Data structures">
+
 </div>
 
 **Repository:** [Strongly Chordal Graphs Library](https://github.com/kaikea1meida/Grafo.h)
