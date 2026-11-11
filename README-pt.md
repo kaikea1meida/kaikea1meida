@@ -188,6 +188,8 @@ Este projeto envolve o estudo de representações de grafos e a aplicação de e
 
 Este projeto reconhece se um grafo G é fortemente cordal reduzindo o problema à verificação se o seu grafo de incidência vértice-clique auxiliar H(G) é cordal bipartido.
 
+Nós tentamos não nos apegar aos algoritmos como o da EEPF ( Esquema de Eliminação Perfeita Fore) e ir pra algo diferente.
+
 Também estamos visualizando os grafos através de matrizes de adjacência, olhando apenas para um triângulo (superior ou inferior, dependendo da necessidade).
 
 ### Ideia teórica
@@ -221,7 +223,25 @@ Como construímos:
 - Se formar, escolher o vértice bissimplicial (aquele cuja vizinhança fica inteiramente dentro desse biclique).
 - Remover esse vértice e todas as suas arestas incidentes de H(G).
 
-#### 3. Saída
+#### 3. Explicando o porquê
+
+- "Mas como encontrar (ou não) esses vértices bissimpliciais ajudaria na classificação de um grafo fortemente cordal?" você está se perguntando.
+- Essa é a parte interessante do algoritmo que usamos: se encontrarmos um ciclo induzido maior que 4 no bipartido vértice-clique, significa que no grafo original G existe um n-sol (N-sun).
+- Por exemplo, se tiver um C6 induzido em H(G), tem um 3-sol induzido em G, ou se tiver um C8, significa que tem um 4-sol induzido.
+
+#### 3-sol induzido e C6 induzido
+<p align="center">
+  <img width="45%" alt="Grafo_com_3_sol" src="https://github.com/user-attachments/assets/7bc3721f-5539-43bb-8526-ae173a0d976b" />
+  <img width="45%" alt="Bipartido_vertice_clique_com_c6" src="https://github.com/user-attachments/assets/14d33543-b1a3-4c9b-964b-e5492b83e758" />
+</p>
+
+#### 4-sol induzido e C8 induzido
+<p align="center">
+  <img width="45%" alt="Grafo_com_4_sol" src="https://github.com/user-attachments/assets/8190fb4b-fbd3-4fc8-bb39-4b34bb47fcf7" />
+  <img width="45%" alt="Bipartido_vertice_clique_com_c8" src="https://github.com/user-attachments/assets/a512ee2a-36fe-44ae-af4b-aaa6af073f18" />
+</p>
+
+#### 4. Saída
 
 - **Se H(G) terminar completamente vazio:** G é fortemente cordal.
 - **Se o loop ficar travado e não conseguir encontrar nenhum vértice bissimplicial:** G não é fortemente cordal.
