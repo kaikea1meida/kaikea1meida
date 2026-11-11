@@ -56,26 +56,47 @@ svg.append('</g>')
 hud_elements = [
     '<g transform="translate(370, 18)">',
     '  <text class="hud-title" x="0" y="0">kaike@ufrrj-pc</text>',
+    
     '  <text class="hud-line" x="0" y="20">---------------------------------------------------</text>',
+    
     '  <text class="hud-key" x="0" y="42">OS:</text><text class="hud-val" x="85" y="42">Ubuntu Linux (x86_64)</text>',
+    
     '  <text class="hud-key" x="0" y="62">Host:</text><text class="hud-val" x="85" y="62">Custom Desktop Rig</text>',
+    
     '  <text class="hud-key" x="0" y="82">Kernel:</text><text class="hud-val" x="85" y="82">Linux (Custom)</text>',
+    
     '  <text class="hud-key" x="0" y="102">Uptime:</text><text class="hud-val" x="85" y="102">2nd Semester (2026)</text>',
+    
     '  <text class="hud-key" x="0" y="122">Theme:</text><text class="hud-val" x="85" y="122">Me</text>',
+    
     '  <text class="hud-key" x="0" y="142">Memory:</text><text class="hud-val" x="85" y="142">0 / 0MiB</text>',
+    
     '  <text class="hud-key" x="0" y="162">GPU:</text><text class="hud-val" x="85" y="162">AMD Radeon RX 580</text>',
+    
     '  <text class="hud-key" x="0" y="182">Shell:</text><text class="hud-val" x="85" y="182">bash</text>',
+    
     '  <text class="hud-key" x="0" y="202">Terminal:</text><text class="hud-val" x="85" y="202">VS Code Terminal</text>',
+    
     '  <text class="hud-key" x="0" y="222">Institution:</text><text class="hud-val" x="110" y="222">UFRRJ (IM)</text>',
+    
     '  <text class="hud-key" x="0" y="242">Degree:</text><text class="hud-val" x="85" y="242">Computer Science</text>',
+    
     '  <text class="hud-key" x="0" y="262">Language:</text><text class="hud-val" x="90" y="262">C (Primary)</text>',
+    
     '  <text class="hud-key" x="0" y="282">Interests:</text><text class="hud-val" x="90" y="282">Graphs &amp; Data Structs. &amp; Comp. Arch.</text>',
+    
     '  <text class="hud-key" x="0" y="302">Editor:</text><text class="hud-val" x="85" y="302">VS Code / Terminal</text>',
+    
     '  <text class="hud-key" x="0" y="322">Git:</text><text class="hud-val" x="50" y="322">Git &amp; GitHub</text>',
+    
     '  <text class="hud-line" x="0" y="342">---------------------------------------------------</text>',
+    
     '  <text class="hud-cat" x="0" y="366">Contact:</text>',
+    
     '  <text class="hud-key" x="0" y="386">GitHub:</text><text class="hud-val" x="80" y="386">@kaikea1meida || kaikeaes@gmail.com</text>',
+    
     '  <text class="hud-key" x="0" y="406">Status:</text><text class="hud-val" x="80" y="406">Building C Games and Chordal project</text>',
+    
     '</g>'
 ]
 
