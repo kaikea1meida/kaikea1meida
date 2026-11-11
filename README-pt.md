@@ -59,7 +59,6 @@ O que eu tenho estudado atualmente envolve projetos em **C**, incluindo algoritm
 
 <img src="https://skillicons.dev/icons?i=c,linux,git,github" alt="C, Linux, Git and GitHub icons">
 
-</div>
 
 | Área | Conhecimento |
 |:---|:---|
