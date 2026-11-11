@@ -59,8 +59,6 @@ Most of my current studies involve projects in **C**, including algorithms for r
 
 <img src="https://skillicons.dev/icons?i=c,linux,git,github" alt="C, Linux, Git and GitHub icons">
 
-</div>
-
 | Area | Knowledge |
 |:---|:---|
 | Programming language | C |
