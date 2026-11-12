@@ -6,7 +6,7 @@ altura = 460    # Altura compacta
 fps = 0.1
 
 inicio_frame = 13
-fim_frame = 29
+fim_frame = 43
 total_frames = (fim_frame - inicio_frame) + 1
 duracao_total = total_frames * fps
 porcentagem_visivel = 100 / total_frames
