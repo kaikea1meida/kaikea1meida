@@ -86,13 +86,13 @@ I'm currently developing a game in **C**, using mainly the **Ncurses** library t
 <details>
   <summary>
     <picture>
-      <img width="120" alt="talksfolderblank_99340" src="https://github.com/user-attachments/assets/5fc74e45-a248-4d6d-9214-baf469d37ab3" />
+      <img width="40" alt="talksfolderblank_99340" src="https://github.com/user-attachments/assets/5fc74e45-a248-4d6d-9214-baf469d37ab3" />
     </picture>
     <br>
-    <kbd><b>&nbsp;click - Game info and pictures&nbsp;</b></kbd>
+    <b>&nbsp;click - Game info and pictures&nbsp;</b>
   </summary>
-
   <br>
+
 
 <div align="center">
   <img src="./.assets/.assets/descjogo.svg" width="100%" alt="Informação do Jogo">
@@ -200,13 +200,13 @@ This project involves studying graph representations and applying data structure
 <details>
   <summary>
     <picture>
-      <img width="120" alt="documentsfolderblank_99359" src="https://github.com/user-attachments/assets/b9fd6475-92df-45c3-9ed0-74b2d49f2475" />
+      <img width="80" alt="documentsfolderblank_99359" src="https://github.com/user-attachments/assets/b9fd6475-92df-45c3-9ed0-74b2d49f2475" />
     </picture>
     <br>
-    <kbd><b>&nbsp;click - What is the project about?&nbsp;</b></kbd>
+    <b>&nbsp;click - What is the project about?&nbsp;</b>
   </summary>
-
   <br>
+
   
 ## Strongly Chordal Graph Recognition
 
