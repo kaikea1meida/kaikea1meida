@@ -200,7 +200,7 @@ This project involves studying graph representations and applying data structure
 <details>
   <summary>
     <picture>
-      <img width="80" alt="documentsfolderblank_99359" src="https://github.com/user-attachments/assets/b9fd6475-92df-45c3-9ed0-74b2d49f2475" />
+      <img width="40" alt="documentsfolderblank_99359" src="https://github.com/user-attachments/assets/b9fd6475-92df-45c3-9ed0-74b2d49f2475" />
     </picture>
     <br>
     <b>&nbsp;click - What is the project about?&nbsp;</b>
